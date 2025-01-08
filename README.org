@@ -1,0 +1,16 @@
+#+TITLE: tigger's fonts
+* What fonts?
+- *tigger* (.ttf, .woff2):
+  Handwriting based font (no bold/italic, only one weight /Hand/.
+  If you hate Comic Sans, you might like something a bit more authentic like this.
+  If you hate this entire class of fonts, hold your nose or abort your mission now.
+- *Interminable* (.ttf, .woff2):
+  Monospaced (fixed-width) font primarily targeted for Terminal use. It's particularly meant to be good at remaining legible and unambiguous at smaller point sizes. Based on Profont / [[https://www.nerdfonts.com/font-downloads][ProfontIIx Nerd Font]] with a European flair - specifically, the number 4, and the crossed 7 and Z feel more natural to me (as well as being superior in distinguishing themselves from similar shaped characters unambiguously esp at smaller sizes and lower fidelity situations).
+- *Sudoers* (.ttf, .woff2):
+  Another monospaced font this one with IDE and code editing in mind. European flair to the 4, 7 and Z like Interminable does. Based on the font [[https://github.com/jenskutilek/sudo-font][Sudo]].
+* What else?
+- I have tried to cover most accent glyphs (Latin based European characters, the old Irish séiṁiú in particular is lacking in most fonts. These are still a little lackign for Greek/Cyrillic glyphs at present however).
+* LICENSE
+All fonts SIL Open Font License v1.1
+* Source
+The =*.sfd*= files, mastered in [[https://fontforge.org/][FontForge]]
