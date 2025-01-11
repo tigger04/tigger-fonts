@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1736540507
+ModificationTime: 1736540525
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -817,7 +817,7 @@ EndChar
 StartChar: space
 Encoding: 32 32 3
 AltUni2: 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 0000a0.ffffffff.0 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 0000a0.ffffffff.0 002000.ffffffff.0 002001.ffffffff.0
-Width: 353
+Width: 336
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -826,6 +826,18 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 353
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 1
 WasModified: 0
 WasOrder2: 1
@@ -840,6 +852,8 @@ EndUndoes
 Redoes
 EndRedoes
 EndUndoRedoHistory
+Fore
+Refer: 1374 728 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: exclam
@@ -37686,7 +37700,7 @@ EndChar
 
 StartChar: uni0306
 Encoding: 774 774 1373
-Width: 353
+Width: 336
 Flags: W
 LayerCount: 2
 UndoRedoHistory
@@ -37694,6 +37708,18 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 353
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 1
 WasModified: 1
 WasOrder2: 1
@@ -37708,6 +37734,8 @@ EndUndoes
 Redoes
 EndRedoes
 EndUndoRedoHistory
+Fore
+Refer: 1374 728 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: breve

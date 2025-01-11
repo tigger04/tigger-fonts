@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1736540525
+ModificationTime: 1736540535
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -753,7 +753,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 690 30 10
+WinInfo: 330 30 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -770,7 +770,7 @@ Grid
   Named: "cap_h"
 EndSplineSet
 AnchorClass2: "bottom-char" "'mark' Mark Positioning lookup 2-1" "top-char" "'mark' Mark Positioning lookup 2-1" "_center"""  "_top"""  "center""" 
-BeginChars: 66025 1375
+BeginChars: 66025 1403
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -7230,6 +7230,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -7255,6 +7262,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -10717,6 +10731,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -10741,6 +10762,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -10767,6 +10795,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -10791,6 +10826,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -10857,6 +10899,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11003,6 +11052,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11028,6 +11084,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11052,6 +11115,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11129,6 +11199,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11258,6 +11335,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11282,6 +11366,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11308,6 +11399,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11332,6 +11430,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11358,6 +11463,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11382,6 +11494,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11408,6 +11527,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11432,6 +11558,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11458,6 +11591,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11482,6 +11622,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11508,6 +11655,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11532,6 +11686,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11558,6 +11719,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11583,6 +11751,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11607,6 +11782,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11719,6 +11901,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11743,6 +11932,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11769,6 +11965,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11793,6 +11996,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11819,6 +12029,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11843,6 +12060,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11869,6 +12093,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11893,6 +12124,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -11919,6 +12157,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -11943,6 +12188,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12020,6 +12272,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12044,6 +12303,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12070,6 +12336,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12094,6 +12367,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12120,6 +12400,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12144,6 +12431,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12170,6 +12464,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12194,6 +12495,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12220,6 +12528,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12244,6 +12559,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12270,6 +12592,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12294,6 +12623,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12377,6 +12713,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12401,6 +12744,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12427,6 +12777,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12451,6 +12808,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12727,6 +13091,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12751,6 +13122,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12777,6 +13155,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12801,6 +13186,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12827,6 +13219,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12851,6 +13250,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12877,6 +13283,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12901,6 +13314,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12927,6 +13347,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -12951,6 +13378,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -12977,6 +13411,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13001,6 +13442,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13027,6 +13475,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13052,6 +13507,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13076,6 +13538,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13177,6 +13646,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13201,6 +13677,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13227,6 +13710,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13251,6 +13741,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13277,6 +13774,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13301,6 +13805,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13327,6 +13838,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13351,6 +13869,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13377,6 +13902,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -13401,6 +13933,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13586,7 +14125,7 @@ EndChar
 
 StartChar: dotaccent
 Encoding: 729 729 222
-Width: 254
+Width: 336
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -13595,6 +14134,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13610,7 +14156,7 @@ EndChar
 
 StartChar: ring
 Encoding: 730 730 223
-Width: 254
+Width: 336
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -13619,6 +14165,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13634,7 +14187,7 @@ EndChar
 
 StartChar: tilde
 Encoding: 732 732 224
-Width: 254
+Width: 336
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -13643,6 +14196,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13658,7 +14218,7 @@ EndChar
 
 StartChar: hungarumlaut
 Encoding: 733 733 225
-Width: 254
+Width: 336
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -13667,6 +14227,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -13830,6 +14397,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14011,6 +14585,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14035,6 +14616,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14061,6 +14649,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14085,6 +14680,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14135,6 +14737,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14159,6 +14768,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14210,6 +14826,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14234,6 +14857,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14260,6 +14890,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14284,6 +14921,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14310,6 +14954,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14334,6 +14985,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14360,6 +15018,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14385,6 +15050,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14409,6 +15081,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14725,6 +15404,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14749,6 +15435,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14775,6 +15468,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14799,6 +15499,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14825,6 +15532,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14849,6 +15563,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14875,6 +15596,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14899,6 +15627,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14925,6 +15660,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14949,6 +15691,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -14975,6 +15724,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -14999,6 +15755,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15025,6 +15788,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15049,6 +15819,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15075,6 +15852,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15099,6 +15883,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15125,6 +15916,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15149,6 +15947,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15175,6 +15980,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15199,6 +16011,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15225,6 +16044,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15249,6 +16075,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15275,6 +16108,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15299,6 +16139,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15325,6 +16172,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15349,6 +16203,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15375,6 +16236,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15399,6 +16267,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15425,6 +16300,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15449,6 +16331,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15475,6 +16364,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15499,6 +16395,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15525,6 +16428,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15549,6 +16459,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15575,6 +16492,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15599,6 +16523,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15625,6 +16556,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15649,6 +16587,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15675,6 +16620,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15699,6 +16651,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15725,6 +16684,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15749,6 +16715,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15775,6 +16748,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15799,6 +16779,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15825,6 +16812,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15849,6 +16843,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15875,6 +16876,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15899,6 +16907,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15925,6 +16940,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15949,6 +16971,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -15975,6 +17004,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -15999,6 +17035,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16025,6 +17068,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16049,6 +17099,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16075,6 +17132,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16099,6 +17163,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16125,6 +17196,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16149,6 +17227,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16175,6 +17260,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16199,6 +17291,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16225,6 +17324,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16249,6 +17355,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16275,6 +17388,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16299,6 +17419,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16325,6 +17452,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16349,6 +17483,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16375,6 +17516,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16399,6 +17547,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16425,6 +17580,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16449,6 +17611,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16475,6 +17644,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16499,6 +17675,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16525,6 +17708,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16549,6 +17739,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16575,6 +17772,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16599,6 +17803,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16625,6 +17836,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16649,6 +17867,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16675,6 +17900,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16699,6 +17931,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16725,6 +17964,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16749,6 +17995,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16775,6 +18028,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16799,6 +18059,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16825,6 +18092,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16849,6 +18123,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16875,6 +18156,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16899,6 +18187,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16925,6 +18220,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16949,6 +18251,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -16975,6 +18284,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -16999,6 +18315,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17025,6 +18348,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17049,6 +18379,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17075,6 +18412,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17099,6 +18443,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17125,6 +18476,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17149,6 +18507,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17175,6 +18540,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17199,6 +18571,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17225,6 +18604,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17249,6 +18635,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17275,6 +18668,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17299,6 +18699,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17325,6 +18732,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17349,6 +18763,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17375,6 +18796,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17399,6 +18827,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17425,6 +18860,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17449,6 +18891,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17475,6 +18924,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17499,6 +18955,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17525,6 +18988,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17549,6 +19019,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17575,6 +19052,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17599,6 +19083,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17625,6 +19116,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17649,6 +19147,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -17675,6 +19180,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -17699,6 +19211,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31724,6 +33243,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31747,6 +33273,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31769,6 +33302,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31794,6 +33334,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31816,6 +33363,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31840,6 +33394,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31862,6 +33423,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31887,6 +33455,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31910,6 +33485,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31935,6 +33517,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -31958,6 +33547,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -31983,6 +33579,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32006,6 +33609,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32031,6 +33641,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32054,6 +33671,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32079,6 +33703,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32102,6 +33733,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32127,6 +33765,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32150,6 +33795,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32175,6 +33827,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32197,6 +33856,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32222,6 +33888,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32246,6 +33919,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32269,6 +33949,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32291,6 +33978,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32316,6 +34010,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32338,6 +34039,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32363,6 +34071,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32386,6 +34101,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32411,6 +34133,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32434,6 +34163,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32459,6 +34195,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32481,6 +34224,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32505,6 +34255,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32527,6 +34284,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32551,6 +34315,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32573,6 +34344,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32598,6 +34376,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32621,6 +34406,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32646,6 +34438,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32670,6 +34469,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32692,6 +34498,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32717,6 +34530,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32739,6 +34559,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32763,6 +34590,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32785,6 +34619,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32810,6 +34651,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32833,6 +34681,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32858,6 +34713,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32881,6 +34743,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32906,6 +34775,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32929,6 +34805,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32951,6 +34834,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -32976,6 +34866,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -32999,6 +34896,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33024,6 +34928,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33047,6 +34958,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33072,6 +34990,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33095,6 +35020,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33120,6 +35052,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33142,6 +35081,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33167,6 +35113,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33191,6 +35144,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33213,6 +35173,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33237,6 +35204,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33259,6 +35233,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33284,6 +35265,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33307,6 +35295,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33332,6 +35327,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33355,6 +35357,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33380,6 +35389,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33403,6 +35419,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33428,6 +35451,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33451,6 +35481,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33476,6 +35513,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33498,6 +35542,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33523,6 +35574,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33545,6 +35603,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33570,6 +35635,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33593,6 +35665,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33615,6 +35694,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33640,6 +35726,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33663,6 +35756,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33685,6 +35785,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33710,6 +35817,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33733,6 +35847,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33758,6 +35879,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33782,6 +35910,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33804,6 +35939,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33829,6 +35971,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33852,6 +36001,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33874,6 +36030,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33899,6 +36062,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33922,6 +36092,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33947,6 +36124,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -33970,6 +36154,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -33995,6 +36186,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34018,6 +36216,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34043,6 +36248,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34067,6 +36279,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34089,6 +36308,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34114,6 +36340,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34136,6 +36369,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34161,6 +36401,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34183,6 +36430,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34208,6 +36462,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34230,6 +36491,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34255,6 +36523,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34278,6 +36553,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34303,6 +36585,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34326,6 +36615,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34351,6 +36647,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34375,6 +36678,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34397,6 +36707,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34421,6 +36738,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34444,6 +36768,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34466,6 +36797,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34491,6 +36829,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34514,6 +36859,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34539,6 +36891,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34562,6 +36921,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34587,6 +36953,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34611,6 +36984,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34633,6 +37013,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34657,6 +37044,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -34781,6 +37175,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34805,6 +37206,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -34828,6 +37236,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36131,6 +38546,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36153,6 +38575,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36177,6 +38606,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36199,6 +38635,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36223,6 +38666,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36245,6 +38695,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36269,6 +38726,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36291,6 +38755,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36315,6 +38786,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36337,6 +38815,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36361,6 +38846,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36383,6 +38875,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36407,6 +38906,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36429,6 +38935,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36453,6 +38966,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36475,6 +38995,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36499,6 +39026,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36521,6 +39055,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36545,6 +39086,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36567,6 +39115,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36591,6 +39146,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36613,6 +39175,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36637,6 +39206,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36659,6 +39235,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -36912,6 +39495,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -36957,6 +39547,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -37528,6 +40125,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -37552,6 +40156,13 @@ Undoes
 UndoOperation
 Index: 0
 Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
@@ -37574,6 +40185,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 3
 WasModified: 1
 WasOrder2: 1
@@ -39558,6 +42176,650 @@ SplineSet
  175.830078125 492.365234375 175.830078125 492.365234375 167.733398438 492.365234375 c 132,-1,26
  159.637695312 492.365234375 159.637695312 492.365234375 143.7109375 502.166992188 c 5,0,1
 EndSplineSet
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 1375
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 130.888 413.251 2
+Refer: 36 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: abreve
+Encoding: 259 259 1376
+Width: 421
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 80.394 61.3008 2
+Refer: 68 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 1377
+Width: 505
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 120.892 416.406 2
+Refer: 40 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ebreve
+Encoding: 277 277 1378
+Width: 343
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 33.9713 83.9813 2
+Refer: 72 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Gbreve
+Encoding: 286 286 1379
+Width: 478
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 133.054 437.301 2
+Refer: 42 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gbreve
+Encoding: 287 287 1380
+Width: 361
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 54.304 61.3008 2
+Refer: 74 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 1381
+Width: 202
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 -19.8883 413.251 2
+Refer: 44 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ibreve
+Encoding: 301 301 1382
+Width: 190
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 -8.84047 61.3008 2
+Refer: 150 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 1383
+Width: 670
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 200.874 413.251 2
+Refer: 50 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: obreve
+Encoding: 335 335 1384
+Width: 414
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 66.6644 67.8341 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ubreve
+Encoding: 364 364 1385
+Width: 533
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 142.158 426.442 2
+Refer: 56 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ubreve
+Encoding: 365 365 1386
+Width: 384
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 56.8547 61.3008 2
+Refer: 88 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni045E
+Encoding: 1118 1118 1387
+Width: 343
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 34.4692 61.3008 2
+Refer: 92 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni04D0
+Encoding: 1232 1232 1388
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 130.888 413.251 2
+Refer: 36 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni04D1
+Encoding: 1233 1233 1389
+Width: 421
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 80.394 61.3008 2
+Refer: 68 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni04D6
+Encoding: 1238 1238 1390
+Width: 505
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 120.892 416.406 2
+Refer: 40 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni04D7
+Encoding: 1239 1239 1391
+Width: 343
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 33.9713 83.9813 2
+Refer: 72 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1E1C
+Encoding: 7708 7708 1392
+Width: 505
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 120.892 416.406 2
+Refer: 1212 552 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1E1D
+Encoding: 7709 7709 1393
+Width: 343
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 33.9713 83.9813 2
+Refer: 1213 553 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAE
+Encoding: 7854 7854 1394
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 111 180 N 1 0 0 1 172.397 526.912 2
+Refer: 1375 258 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAF
+Encoding: 7855 7855 1395
+Width: 421
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 111 180 N 1 0 0 1 122.721 174.962 2
+Refer: 1376 259 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB4
+Encoding: 7860 7860 1396
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 97 126 N 1 0 0 1 108.116 803.35 2
+Refer: 1375 258 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB5
+Encoding: 7861 7861 1397
+Width: 421
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 97 126 N 1 0 0 1 58.4403 451.399 2
+Refer: 1376 259 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB6
+Encoding: 7862 7862 1398
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 130.888 413.251 2
+Refer: 350 7840 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB7
+Encoding: 7863 7863 1399
+Width: 421
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 80.394 61.3008 2
+Refer: 351 7841 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FB8
+Encoding: 8120 8120 1400
+Width: 436
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 130.888 413.251 2
+Refer: 36 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FD8
+Encoding: 8152 8152 1401
+Width: 202
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 -19.8883 413.251 2
+Refer: 44 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FE8
+Encoding: 8168 8168 1402
+Width: 541
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 1373 774 N 1 0 0 1 119.112 413.251 2
+Refer: 60 89 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
