@@ -750,10 +750,10 @@ GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -72
+DisplaySize: -48
 AntiAlias: 1
-FitToEm: 0
-WinInfo: 36 18 7
+FitToEm: 1
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
