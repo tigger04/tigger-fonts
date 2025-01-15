@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1736876156
+ModificationTime: 1736895508
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -752,7 +752,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 75 25 10
+WinInfo: 25 25 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -804,7 +804,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 3
-AltUni2: 0000a0.ffffffff.0 002000.ffffffff.0 002001.ffffffff.0 002002.ffffffff.0 002003.ffffffff.0 002004.ffffffff.0 002005.ffffffff.0 002006.ffffffff.0 002007.ffffffff.0 002008.ffffffff.0 002009.ffffffff.0 00200a.ffffffff.0 00202f.ffffffff.0 00205f.ffffffff.0 003000.ffffffff.0 0000a0.ffffffff.0 002000.ffffffff.0 002001.ffffffff.0 002002.ffffffff.0 002003.ffffffff.0 002004.ffffffff.0 002005.ffffffff.0 002006.ffffffff.0 002007.ffffffff.0 002008.ffffffff.0 002009.ffffffff.0 00200a.ffffffff.0 00202f.ffffffff.0 00205f.ffffffff.0 003000.ffffffff.0
+AltUni2: 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 002001.ffffffff.0 002000.ffffffff.0 0000a0.ffffffff.0 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 002001.ffffffff.0 002000.ffffffff.0 0000a0.ffffffff.0
 Width: 254
 GlyphClass: 1
 Flags: W
@@ -813,7 +813,7 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 4
-AltUni2: 002762.ffffffff.0 00fe15.ffffffff.0 00fe57.ffffffff.0 00ff01.ffffffff.0 002762.ffffffff.0 00fe15.ffffffff.0 00fe57.ffffffff.0 00ff01.ffffffff.0
+AltUni2: 00ff01.ffffffff.0 00fe57.ffffffff.0 00fe15.ffffffff.0 002762.ffffffff.0 00ff01.ffffffff.0 00fe57.ffffffff.0 00fe15.ffffffff.0 002762.ffffffff.0
 Width: 176
 GlyphClass: 1
 Flags: W
@@ -846,7 +846,7 @@ EndChar
 
 StartChar: quotedbl
 Encoding: 34 34 5
-AltUni2: 0002ba.ffffffff.0 00030b.ffffffff.0 00030e.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00ff02.ffffffff.0 0002ba.ffffffff.0 00030b.ffffffff.0 00030e.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00ff02.ffffffff.0
+AltUni2: 00ff02.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00030e.ffffffff.0 00030b.ffffffff.0 0002ba.ffffffff.0 00ff02.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00030e.ffffffff.0 00030b.ffffffff.0 0002ba.ffffffff.0
 Width: 292
 GlyphClass: 1
 Flags: W
@@ -880,7 +880,7 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 6
-AltUni2: 00fe5f.ffffffff.0 00ff03.ffffffff.0 00fe5f.ffffffff.0 00ff03.ffffffff.0
+AltUni2: 00ff03.ffffffff.0 00fe5f.ffffffff.0 00ff03.ffffffff.0 00fe5f.ffffffff.0
 Width: 731
 GlyphClass: 1
 Flags: W
@@ -979,7 +979,7 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 7
-AltUni2: 00fe69.ffffffff.0 00ff04.ffffffff.0 00fe69.ffffffff.0 00ff04.ffffffff.0
+AltUni2: 00ff04.ffffffff.0 00fe69.ffffffff.0 00ff04.ffffffff.0 00fe69.ffffffff.0
 Width: 535
 GlyphClass: 1
 Flags: W
@@ -1081,7 +1081,7 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 8
-AltUni2: 00066a.ffffffff.0 00fe6a.ffffffff.0 00ff05.ffffffff.0 00066a.ffffffff.0 00fe6a.ffffffff.0 00ff05.ffffffff.0
+AltUni2: 00ff05.ffffffff.0 00fe6a.ffffffff.0 00066a.ffffffff.0 00ff05.ffffffff.0 00fe6a.ffffffff.0 00066a.ffffffff.0
 Width: 671
 GlyphClass: 1
 Flags: W
@@ -1170,7 +1170,7 @@ EndChar
 
 StartChar: ampersand
 Encoding: 38 38 9
-AltUni2: 00fe60.ffffffff.0 00ff06.ffffffff.0 00fe60.ffffffff.0 00ff06.ffffffff.0
+AltUni2: 00ff06.ffffffff.0 00fe60.ffffffff.0 00ff06.ffffffff.0 00fe60.ffffffff.0
 Width: 650
 GlyphClass: 1
 Flags: W
@@ -1238,7 +1238,7 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 10
-AltUni2: 0002b9.ffffffff.0 0002bc.ffffffff.0 0002c8.ffffffff.0 000374.ffffffff.0 002019.ffffffff.0 002032.ffffffff.0 00ff07.ffffffff.0 0002b9.ffffffff.0 0002bc.ffffffff.0 0002c8.ffffffff.0 000374.ffffffff.0 002019.ffffffff.0 002032.ffffffff.0 00ff07.ffffffff.0
+AltUni2: 00ff07.ffffffff.0 002032.ffffffff.0 002019.ffffffff.0 000374.ffffffff.0 0002c8.ffffffff.0 0002bc.ffffffff.0 0002b9.ffffffff.0 00ff07.ffffffff.0 002032.ffffffff.0 002019.ffffffff.0 000374.ffffffff.0 0002c8.ffffffff.0 0002bc.ffffffff.0 0002b9.ffffffff.0
 Width: 166
 GlyphClass: 1
 Flags: W
@@ -1265,7 +1265,7 @@ EndChar
 
 StartChar: parenleft
 Encoding: 40 40 11
-AltUni2: 00207d.ffffffff.0 00208d.ffffffff.0 00fe35.ffffffff.0 00fe59.ffffffff.0 00ff08.ffffffff.0 00207d.ffffffff.0 00208d.ffffffff.0 00fe35.ffffffff.0 00fe59.ffffffff.0 00ff08.ffffffff.0
+AltUni2: 00ff08.ffffffff.0 00fe59.ffffffff.0 00fe35.ffffffff.0 00208d.ffffffff.0 00207d.ffffffff.0 00ff08.ffffffff.0 00fe59.ffffffff.0 00fe35.ffffffff.0 00208d.ffffffff.0 00207d.ffffffff.0
 Width: 360
 GlyphClass: 1
 Flags: W
@@ -1301,7 +1301,7 @@ EndChar
 
 StartChar: parenright
 Encoding: 41 41 12
-AltUni2: 00207e.ffffffff.0 00208e.ffffffff.0 00fe36.ffffffff.0 00fe5a.ffffffff.0 00ff09.ffffffff.0 00207e.ffffffff.0 00208e.ffffffff.0 00fe36.ffffffff.0 00fe5a.ffffffff.0 00ff09.ffffffff.0
+AltUni2: 00ff09.ffffffff.0 00fe5a.ffffffff.0 00fe36.ffffffff.0 00208e.ffffffff.0 00207e.ffffffff.0 00ff09.ffffffff.0 00fe5a.ffffffff.0 00fe36.ffffffff.0 00208e.ffffffff.0 00207e.ffffffff.0
 Width: 323
 GlyphClass: 1
 Flags: W
@@ -1334,7 +1334,7 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 13
-AltUni2: 002217.ffffffff.0 002731.ffffffff.0 00fe61.ffffffff.0 00ff0a.ffffffff.0 002217.ffffffff.0 002731.ffffffff.0 00fe61.ffffffff.0 00ff0a.ffffffff.0
+AltUni2: 00ff0a.ffffffff.0 00fe61.ffffffff.0 002731.ffffffff.0 002217.ffffffff.0 00ff0a.ffffffff.0 00fe61.ffffffff.0 002731.ffffffff.0 002217.ffffffff.0
 Width: 503
 GlyphClass: 1
 Flags: W
@@ -1401,7 +1401,7 @@ EndChar
 
 StartChar: plus
 Encoding: 43 43 14
-AltUni2: 00207a.ffffffff.0 00208a.ffffffff.0 00fb29.ffffffff.0 00fe62.ffffffff.0 00ff0b.ffffffff.0 00207a.ffffffff.0 00208a.ffffffff.0 00fb29.ffffffff.0 00fe62.ffffffff.0 00ff0b.ffffffff.0
+AltUni2: 00ff0b.ffffffff.0 00fe62.ffffffff.0 00fb29.ffffffff.0 00208a.ffffffff.0 00207a.ffffffff.0 00ff0b.ffffffff.0 00fe62.ffffffff.0 00fb29.ffffffff.0 00208a.ffffffff.0 00207a.ffffffff.0
 Width: 638
 GlyphClass: 1
 Flags: W
@@ -1465,7 +1465,7 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 15
-AltUni2: 00066c.ffffffff.0 003001.ffffffff.0 00fe10.ffffffff.0 00fe11.ffffffff.0 00fe50.ffffffff.0 00ff0c.ffffffff.0 00066c.ffffffff.0 003001.ffffffff.0 00fe10.ffffffff.0 00fe11.ffffffff.0 00fe50.ffffffff.0 00ff0c.ffffffff.0
+AltUni2: 00ff0c.ffffffff.0 00fe50.ffffffff.0 00fe11.ffffffff.0 00fe10.ffffffff.0 003001.ffffffff.0 00066c.ffffffff.0 00ff0c.ffffffff.0 00fe50.ffffffff.0 00fe11.ffffffff.0 00fe10.ffffffff.0 003001.ffffffff.0 00066c.ffffffff.0
 Width: 230
 GlyphClass: 1
 Flags: W
@@ -1494,7 +1494,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 16
-AltUni2: 002010.ffffffff.0 002011.ffffffff.0 002012.ffffffff.0 002013.ffffffff.0 002014.ffffffff.0 002015.ffffffff.0 00207b.ffffffff.0 002212.ffffffff.0 002500.ffffffff.0 00fe32.ffffffff.0 00fe63.ffffffff.0 00ff0d.ffffffff.0 002010.ffffffff.0 002011.ffffffff.0 002012.ffffffff.0 002013.ffffffff.0 002014.ffffffff.0 002015.ffffffff.0 00207b.ffffffff.0 002212.ffffffff.0 002500.ffffffff.0 00fe32.ffffffff.0 00fe63.ffffffff.0 00ff0d.ffffffff.0
+AltUni2: 00ff0d.ffffffff.0 00fe63.ffffffff.0 00fe32.ffffffff.0 002500.ffffffff.0 002212.ffffffff.0 00207b.ffffffff.0 002015.ffffffff.0 002014.ffffffff.0 002013.ffffffff.0 002012.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0 00ff0d.ffffffff.0 00fe63.ffffffff.0 00fe32.ffffffff.0 002500.ffffffff.0 002212.ffffffff.0 00207b.ffffffff.0 002015.ffffffff.0 002014.ffffffff.0 002013.ffffffff.0 002012.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0
 Width: 382
 GlyphClass: 1
 Flags: W
@@ -1523,7 +1523,7 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 17
-AltUni2: 002024.ffffffff.0 00fe52.ffffffff.0 00ff0e.ffffffff.0 002024.ffffffff.0 00fe52.ffffffff.0 00ff0e.ffffffff.0
+AltUni2: 00ff0e.ffffffff.0 00fe52.ffffffff.0 002024.ffffffff.0 00ff0e.ffffffff.0 00fe52.ffffffff.0 002024.ffffffff.0
 Width: 198
 GlyphClass: 1
 Flags: W
@@ -1550,7 +1550,7 @@ EndChar
 
 StartChar: slash
 Encoding: 47 47 18
-AltUni2: 002215.ffffffff.0 00ff0f.ffffffff.0 002215.ffffffff.0 00ff0f.ffffffff.0
+AltUni2: 00ff0f.ffffffff.0 002215.ffffffff.0 00ff0f.ffffffff.0 002215.ffffffff.0
 Width: 452
 GlyphClass: 1
 Flags: W
@@ -1577,7 +1577,7 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 19
-AltUni2: 002070.ffffffff.0 002080.ffffffff.0 00ff10.ffffffff.0 002070.ffffffff.0 002080.ffffffff.0 00ff10.ffffffff.0
+AltUni2: 00ff10.ffffffff.0 002080.ffffffff.0 002070.ffffffff.0 00ff10.ffffffff.0 002080.ffffffff.0 002070.ffffffff.0
 Width: 471
 GlyphClass: 1
 Flags: W
@@ -1611,7 +1611,7 @@ EndChar
 
 StartChar: one
 Encoding: 49 49 20
-AltUni2: 0000b9.ffffffff.0 002081.ffffffff.0 00ff11.ffffffff.0 0000b9.ffffffff.0 002081.ffffffff.0 00ff11.ffffffff.0
+AltUni2: 00ff11.ffffffff.0 002081.ffffffff.0 0000b9.ffffffff.0 00ff11.ffffffff.0 002081.ffffffff.0 0000b9.ffffffff.0
 Width: 307
 GlyphClass: 1
 Flags: W
@@ -1664,7 +1664,7 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 21
-AltUni2: 0000b2.ffffffff.0 002082.ffffffff.0 00ff12.ffffffff.0 0000b2.ffffffff.0 002082.ffffffff.0 00ff12.ffffffff.0
+AltUni2: 00ff12.ffffffff.0 002082.ffffffff.0 0000b2.ffffffff.0 00ff12.ffffffff.0 002082.ffffffff.0 0000b2.ffffffff.0
 Width: 480
 GlyphClass: 1
 Flags: W
@@ -1754,7 +1754,7 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 22
-AltUni2: 0000b3.ffffffff.0 002083.ffffffff.0 00ff13.ffffffff.0 0000b3.ffffffff.0 002083.ffffffff.0 00ff13.ffffffff.0
+AltUni2: 00ff13.ffffffff.0 002083.ffffffff.0 0000b3.ffffffff.0 00ff13.ffffffff.0 002083.ffffffff.0 0000b3.ffffffff.0
 Width: 472
 GlyphClass: 1
 Flags: W
@@ -1799,7 +1799,7 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 23
-AltUni2: 002074.ffffffff.0 002084.ffffffff.0 00ff14.ffffffff.0 002074.ffffffff.0 002084.ffffffff.0 00ff14.ffffffff.0
+AltUni2: 00ff14.ffffffff.0 002084.ffffffff.0 002074.ffffffff.0 00ff14.ffffffff.0 002084.ffffffff.0 002074.ffffffff.0
 Width: 514
 GlyphClass: 1
 Flags: W
@@ -1870,7 +1870,7 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 24
-AltUni2: 002075.ffffffff.0 002085.ffffffff.0 00ff15.ffffffff.0 002075.ffffffff.0 002085.ffffffff.0 00ff15.ffffffff.0
+AltUni2: 00ff15.ffffffff.0 002085.ffffffff.0 002075.ffffffff.0 00ff15.ffffffff.0 002085.ffffffff.0 002075.ffffffff.0
 Width: 449
 GlyphClass: 1
 Flags: W
@@ -1921,7 +1921,7 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 25
-AltUni2: 002076.ffffffff.0 002086.ffffffff.0 00ff16.ffffffff.0 002076.ffffffff.0 002086.ffffffff.0 00ff16.ffffffff.0
+AltUni2: 00ff16.ffffffff.0 002086.ffffffff.0 002076.ffffffff.0 00ff16.ffffffff.0 002086.ffffffff.0 002076.ffffffff.0
 Width: 442
 GlyphClass: 1
 Flags: W
@@ -1959,7 +1959,7 @@ EndChar
 
 StartChar: seven
 Encoding: 55 55 26
-AltUni2: 002077.ffffffff.0 002087.ffffffff.0 00ff17.ffffffff.0 002077.ffffffff.0 002087.ffffffff.0 00ff17.ffffffff.0
+AltUni2: 00ff17.ffffffff.0 002087.ffffffff.0 002077.ffffffff.0 00ff17.ffffffff.0 002087.ffffffff.0 002077.ffffffff.0
 Width: 479
 GlyphClass: 1
 Flags: W
@@ -2033,7 +2033,7 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 27
-AltUni2: 002078.ffffffff.0 002088.ffffffff.0 00ff18.ffffffff.0 002078.ffffffff.0 002088.ffffffff.0 00ff18.ffffffff.0
+AltUni2: 00ff18.ffffffff.0 002088.ffffffff.0 002078.ffffffff.0 00ff18.ffffffff.0 002088.ffffffff.0 002078.ffffffff.0
 Width: 437
 GlyphClass: 1
 Flags: W
@@ -2101,7 +2101,7 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 28
-AltUni2: 002079.ffffffff.0 002089.ffffffff.0 00ff19.ffffffff.0 002079.ffffffff.0 002089.ffffffff.0 00ff19.ffffffff.0
+AltUni2: 00ff19.ffffffff.0 002089.ffffffff.0 002079.ffffffff.0 00ff19.ffffffff.0 002089.ffffffff.0 002079.ffffffff.0
 Width: 444
 GlyphClass: 1
 Flags: W
@@ -2136,7 +2136,7 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 29
-AltUni2: 000589.ffffffff.0 002236.ffffffff.0 00fe13.ffffffff.0 00fe55.ffffffff.0 00ff1a.ffffffff.0 000589.ffffffff.0 002236.ffffffff.0 00fe13.ffffffff.0 00fe55.ffffffff.0 00ff1a.ffffffff.0
+AltUni2: 00ff1a.ffffffff.0 00fe55.ffffffff.0 00fe13.ffffffff.0 002236.ffffffff.0 000589.ffffffff.0 00ff1a.ffffffff.0 00fe55.ffffffff.0 00fe13.ffffffff.0 002236.ffffffff.0 000589.ffffffff.0
 Width: 230
 GlyphClass: 1
 Flags: W
@@ -2179,7 +2179,7 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 30
-AltUni2: 00037e.ffffffff.0 00fe14.ffffffff.0 00fe54.ffffffff.0 00ff1b.ffffffff.0 00037e.ffffffff.0 00fe14.ffffffff.0 00fe54.ffffffff.0 00ff1b.ffffffff.0
+AltUni2: 00ff1b.ffffffff.0 00fe54.ffffffff.0 00fe14.ffffffff.0 00037e.ffffffff.0 00ff1b.ffffffff.0 00fe54.ffffffff.0 00fe14.ffffffff.0 00037e.ffffffff.0
 Width: 212
 GlyphClass: 1
 Flags: W
@@ -2221,7 +2221,7 @@ EndChar
 
 StartChar: less
 Encoding: 60 60 31
-AltUni2: 002039.ffffffff.0 002329.ffffffff.0 003008.ffffffff.0 00fe64.ffffffff.0 00ff1c.ffffffff.0 002039.ffffffff.0 002329.ffffffff.0 003008.ffffffff.0 00fe64.ffffffff.0 00ff1c.ffffffff.0
+AltUni2: 00ff1c.ffffffff.0 00fe64.ffffffff.0 003008.ffffffff.0 002329.ffffffff.0 002039.ffffffff.0 00ff1c.ffffffff.0 00fe64.ffffffff.0 003008.ffffffff.0 002329.ffffffff.0 002039.ffffffff.0
 Width: 390
 GlyphClass: 1
 Flags: W
@@ -2273,7 +2273,7 @@ EndChar
 
 StartChar: equal
 Encoding: 61 61 32
-AltUni2: 00207c.ffffffff.0 00208c.ffffffff.0 00fe66.ffffffff.0 00ff1d.ffffffff.0 00207c.ffffffff.0 00208c.ffffffff.0 00fe66.ffffffff.0 00ff1d.ffffffff.0
+AltUni2: 00ff1d.ffffffff.0 00fe66.ffffffff.0 00208c.ffffffff.0 00207c.ffffffff.0 00ff1d.ffffffff.0 00fe66.ffffffff.0 00208c.ffffffff.0 00207c.ffffffff.0
 Width: 546
 GlyphClass: 1
 Flags: W
@@ -2307,7 +2307,7 @@ EndChar
 
 StartChar: greater
 Encoding: 62 62 33
-AltUni2: 00203a.ffffffff.0 00232a.ffffffff.0 003009.ffffffff.0 00fe65.ffffffff.0 00ff1e.ffffffff.0 00203a.ffffffff.0 00232a.ffffffff.0 003009.ffffffff.0 00fe65.ffffffff.0 00ff1e.ffffffff.0
+AltUni2: 00ff1e.ffffffff.0 00fe65.ffffffff.0 003009.ffffffff.0 00232a.ffffffff.0 00203a.ffffffff.0 00ff1e.ffffffff.0 00fe65.ffffffff.0 003009.ffffffff.0 00232a.ffffffff.0 00203a.ffffffff.0
 Width: 361
 GlyphClass: 1
 Flags: W
@@ -2353,7 +2353,7 @@ EndChar
 
 StartChar: question
 Encoding: 63 63 34
-AltUni2: 00fe16.ffffffff.0 00fe56.ffffffff.0 00ff1f.ffffffff.0 00fe16.ffffffff.0 00fe56.ffffffff.0 00ff1f.ffffffff.0
+AltUni2: 00ff1f.ffffffff.0 00fe56.ffffffff.0 00fe16.ffffffff.0 00ff1f.ffffffff.0 00fe56.ffffffff.0 00fe16.ffffffff.0
 Width: 464
 GlyphClass: 1
 Flags: W
@@ -2417,7 +2417,7 @@ EndChar
 
 StartChar: at
 Encoding: 64 64 35
-AltUni2: 00fe6b.ffffffff.0 00ff20.ffffffff.0 00fe6b.ffffffff.0 00ff20.ffffffff.0
+AltUni2: 00ff20.ffffffff.0 00fe6b.ffffffff.0 00ff20.ffffffff.0 00fe6b.ffffffff.0
 Width: 537
 GlyphClass: 1
 Flags: W
@@ -2491,7 +2491,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 36
-AltUni2: 000391.ffffffff.0 000410.ffffffff.0 0013aa.ffffffff.0 001d2c.ffffffff.0 00ff21.ffffffff.0 000391.ffffffff.0 000410.ffffffff.0 0013aa.ffffffff.0 001d2c.ffffffff.0 00ff21.ffffffff.0
+AltUni2: 00ff21.ffffffff.0 001d2c.ffffffff.0 0013aa.ffffffff.0 000410.ffffffff.0 000391.ffffffff.0 00ff21.ffffffff.0 001d2c.ffffffff.0 0013aa.ffffffff.0 000410.ffffffff.0 000391.ffffffff.0
 Width: 436
 GlyphClass: 1
 Flags: W
@@ -2538,7 +2538,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 37
-AltUni2: 000392.ffffffff.0 000412.ffffffff.0 0013f4.ffffffff.0 001d2e.ffffffff.0 00212c.ffffffff.0 00ff22.ffffffff.0 000392.ffffffff.0 000412.ffffffff.0 0013f4.ffffffff.0 001d2e.ffffffff.0 00212c.ffffffff.0 00ff22.ffffffff.0
+AltUni2: 00ff22.ffffffff.0 00212c.ffffffff.0 001d2e.ffffffff.0 0013f4.ffffffff.0 000412.ffffffff.0 000392.ffffffff.0 00ff22.ffffffff.0 00212c.ffffffff.0 001d2e.ffffffff.0 0013f4.ffffffff.0 000412.ffffffff.0 000392.ffffffff.0
 Width: 452
 GlyphClass: 1
 Flags: W
@@ -2616,7 +2616,7 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 38
-AltUni2: 000421.ffffffff.0 0013df.ffffffff.0 002102.ffffffff.0 00212d.ffffffff.0 00216d.ffffffff.0 00a7f2.ffffffff.0 00ff23.ffffffff.0 000421.ffffffff.0 0013df.ffffffff.0 002102.ffffffff.0 00212d.ffffffff.0 00216d.ffffffff.0 00a7f2.ffffffff.0 00ff23.ffffffff.0
+AltUni2: 00ff23.ffffffff.0 00a7f2.ffffffff.0 00216d.ffffffff.0 00212d.ffffffff.0 002102.ffffffff.0 0013df.ffffffff.0 000421.ffffffff.0 00ff23.ffffffff.0 00a7f2.ffffffff.0 00216d.ffffffff.0 00212d.ffffffff.0 002102.ffffffff.0 0013df.ffffffff.0 000421.ffffffff.0
 Width: 501
 GlyphClass: 1
 Flags: W
@@ -2666,7 +2666,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 39
-AltUni2: 0013a0.ffffffff.0 001d30.ffffffff.0 002145.ffffffff.0 00216e.ffffffff.0 00ff24.ffffffff.0 0013a0.ffffffff.0 001d30.ffffffff.0 002145.ffffffff.0 00216e.ffffffff.0 00ff24.ffffffff.0
+AltUni2: 00ff24.ffffffff.0 00216e.ffffffff.0 002145.ffffffff.0 001d30.ffffffff.0 0013a0.ffffffff.0 00ff24.ffffffff.0 00216e.ffffffff.0 002145.ffffffff.0 001d30.ffffffff.0 0013a0.ffffffff.0
 Width: 598
 GlyphClass: 1
 Flags: W
@@ -2719,7 +2719,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 40
-AltUni2: 000395.ffffffff.0 000415.ffffffff.0 0013ac.ffffffff.0 001d31.ffffffff.0 002130.ffffffff.0 00ff25.ffffffff.0 000395.ffffffff.0 000415.ffffffff.0 0013ac.ffffffff.0 001d31.ffffffff.0 002130.ffffffff.0 00ff25.ffffffff.0
+AltUni2: 00ff25.ffffffff.0 002130.ffffffff.0 001d31.ffffffff.0 0013ac.ffffffff.0 000415.ffffffff.0 000395.ffffffff.0 00ff25.ffffffff.0 002130.ffffffff.0 001d31.ffffffff.0 0013ac.ffffffff.0 000415.ffffffff.0 000395.ffffffff.0
 Width: 505
 GlyphClass: 1
 Flags: W
@@ -2765,11 +2765,12 @@ SplineSet
  246 657 246 657 225 646 c 0,63,64
  225 645 225 645 224 643 c 0,0,1
 EndSplineSet
+Kerns2: 89 -205 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: F
 Encoding: 70 70 41
-AltUni2: 002131.ffffffff.0 00a7f3.ffffffff.0 00ff26.ffffffff.0 002131.ffffffff.0 00a7f3.ffffffff.0 00ff26.ffffffff.0
+AltUni2: 00ff26.ffffffff.0 00a7f3.ffffffff.0 002131.ffffffff.0 00ff26.ffffffff.0 00a7f3.ffffffff.0 002131.ffffffff.0
 Width: 531
 GlyphClass: 1
 Flags: W
@@ -2816,12 +2817,12 @@ SplineSet
  65 658 65 658 78 664 c 0,62,63
  84 666 84 666 101 672 c 0,0,1
 EndSplineSet
-Kerns2: 36 -135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -205 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -195 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 36 -135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -205 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -195 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -153 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -182 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -203 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 159 -211 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: G
 Encoding: 71 71 42
-AltUni2: 0013c0.ffffffff.0 001d33.ffffffff.0 00ff27.ffffffff.0 0013c0.ffffffff.0 001d33.ffffffff.0 00ff27.ffffffff.0
+AltUni2: 00ff27.ffffffff.0 001d33.ffffffff.0 0013c0.ffffffff.0 00ff27.ffffffff.0 001d33.ffffffff.0 0013c0.ffffffff.0
 Width: 478
 GlyphClass: 1
 Flags: W
@@ -2872,7 +2873,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 43
-AltUni2: 000397.ffffffff.0 00041d.ffffffff.0 0013bb.ffffffff.0 001d34.ffffffff.0 00210b.ffffffff.0 00210c.ffffffff.0 00210d.ffffffff.0 00ff28.ffffffff.0 000397.ffffffff.0 00041d.ffffffff.0 0013bb.ffffffff.0 001d34.ffffffff.0 00210b.ffffffff.0 00210c.ffffffff.0 00210d.ffffffff.0 00ff28.ffffffff.0
+AltUni2: 00ff28.ffffffff.0 00210d.ffffffff.0 00210c.ffffffff.0 00210b.ffffffff.0 001d34.ffffffff.0 0013bb.ffffffff.0 00041d.ffffffff.0 000397.ffffffff.0 00ff28.ffffffff.0 00210d.ffffffff.0 00210c.ffffffff.0 00210b.ffffffff.0 001d34.ffffffff.0 0013bb.ffffffff.0 00041d.ffffffff.0 000397.ffffffff.0
 Width: 477
 GlyphClass: 1
 Flags: W
@@ -2923,7 +2924,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 44
-AltUni2: 000399.ffffffff.0 000406.ffffffff.0 0004c0.ffffffff.0 001d35.ffffffff.0 002110.ffffffff.0 002111.ffffffff.0 002160.ffffffff.0 00ff29.ffffffff.0 000399.ffffffff.0 000406.ffffffff.0 0004c0.ffffffff.0 001d35.ffffffff.0 002110.ffffffff.0 002111.ffffffff.0 002160.ffffffff.0 00ff29.ffffffff.0
+AltUni2: 00ff29.ffffffff.0 002160.ffffffff.0 002111.ffffffff.0 002110.ffffffff.0 001d35.ffffffff.0 0004c0.ffffffff.0 000406.ffffffff.0 000399.ffffffff.0 00ff29.ffffffff.0 002160.ffffffff.0 002111.ffffffff.0 002110.ffffffff.0 001d35.ffffffff.0 0004c0.ffffffff.0 000406.ffffffff.0 000399.ffffffff.0
 Width: 202
 GlyphClass: 1
 Flags: W
@@ -2945,7 +2946,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 45
-AltUni2: 000408.ffffffff.0 0013ab.ffffffff.0 001d36.ffffffff.0 00ff2a.ffffffff.0 000408.ffffffff.0 0013ab.ffffffff.0 001d36.ffffffff.0 00ff2a.ffffffff.0
+AltUni2: 00ff2a.ffffffff.0 001d36.ffffffff.0 0013ab.ffffffff.0 000408.ffffffff.0 00ff2a.ffffffff.0 001d36.ffffffff.0 0013ab.ffffffff.0 000408.ffffffff.0
 Width: 441
 GlyphClass: 1
 Flags: W
@@ -2976,7 +2977,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 46
-AltUni2: 00039a.ffffffff.0 00041a.ffffffff.0 0013e6.ffffffff.0 001d37.ffffffff.0 00212a.ffffffff.0 00ff2b.ffffffff.0 00039a.ffffffff.0 00041a.ffffffff.0 0013e6.ffffffff.0 001d37.ffffffff.0 00212a.ffffffff.0 00ff2b.ffffffff.0
+AltUni2: 00ff2b.ffffffff.0 00212a.ffffffff.0 001d37.ffffffff.0 0013e6.ffffffff.0 00041a.ffffffff.0 00039a.ffffffff.0 00ff2b.ffffffff.0 00212a.ffffffff.0 001d37.ffffffff.0 0013e6.ffffffff.0 00041a.ffffffff.0 00039a.ffffffff.0
 Width: 490
 GlyphClass: 1
 Flags: W
@@ -3042,7 +3043,7 @@ EndChar
 
 StartChar: L
 Encoding: 76 76 47
-AltUni2: 0013de.ffffffff.0 001d38.ffffffff.0 002112.ffffffff.0 00216c.ffffffff.0 00ff2c.ffffffff.0 0013de.ffffffff.0 001d38.ffffffff.0 002112.ffffffff.0 00216c.ffffffff.0 00ff2c.ffffffff.0
+AltUni2: 00ff2c.ffffffff.0 00216c.ffffffff.0 002112.ffffffff.0 001d38.ffffffff.0 0013de.ffffffff.0 00ff2c.ffffffff.0 00216c.ffffffff.0 002112.ffffffff.0 001d38.ffffffff.0 0013de.ffffffff.0
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -3081,12 +3082,12 @@ SplineSet
  139 750 139 750 148 739 c 128,-1,53
  157 728 157 728 156 713 c 0,0,1
 EndSplineSet
-Kerns2: 50 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 50 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -90 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -139 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: M
 Encoding: 77 77 48
-AltUni2: 00039c.ffffffff.0 00041c.ffffffff.0 0013b7.ffffffff.0 001d39.ffffffff.0 002133.ffffffff.0 00216f.ffffffff.0 00ff2d.ffffffff.0 00039c.ffffffff.0 00041c.ffffffff.0 0013b7.ffffffff.0 001d39.ffffffff.0 002133.ffffffff.0 00216f.ffffffff.0 00ff2d.ffffffff.0
+AltUni2: 00ff2d.ffffffff.0 00216f.ffffffff.0 002133.ffffffff.0 001d39.ffffffff.0 0013b7.ffffffff.0 00041c.ffffffff.0 00039c.ffffffff.0 00ff2d.ffffffff.0 00216f.ffffffff.0 002133.ffffffff.0 001d39.ffffffff.0 0013b7.ffffffff.0 00041c.ffffffff.0 00039c.ffffffff.0
 Width: 577
 GlyphClass: 1
 Flags: W
@@ -3203,7 +3204,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 49
-AltUni2: 00039d.ffffffff.0 001d3a.ffffffff.0 002115.ffffffff.0 00ff2e.ffffffff.0 00039d.ffffffff.0 001d3a.ffffffff.0 002115.ffffffff.0 00ff2e.ffffffff.0
+AltUni2: 00ff2e.ffffffff.0 002115.ffffffff.0 001d3a.ffffffff.0 00039d.ffffffff.0 00ff2e.ffffffff.0 002115.ffffffff.0 001d3a.ffffffff.0 00039d.ffffffff.0
 Width: 535
 GlyphClass: 1
 Flags: W
@@ -3264,7 +3265,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 50
-AltUni2: 00039f.ffffffff.0 00041e.ffffffff.0 000555.ffffffff.0 001d3c.ffffffff.0 00ff2f.ffffffff.0 00039f.ffffffff.0 00041e.ffffffff.0 000555.ffffffff.0 001d3c.ffffffff.0 00ff2f.ffffffff.0
+AltUni2: 00ff2f.ffffffff.0 001d3c.ffffffff.0 000555.ffffffff.0 00041e.ffffffff.0 00039f.ffffffff.0 00ff2f.ffffffff.0 001d3c.ffffffff.0 000555.ffffffff.0 00041e.ffffffff.0 00039f.ffffffff.0
 Width: 670
 GlyphClass: 1
 Flags: W
@@ -3308,7 +3309,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 51
-AltUni2: 0003a1.ffffffff.0 000420.ffffffff.0 0013e2.ffffffff.0 001d3e.ffffffff.0 002119.ffffffff.0 00ff30.ffffffff.0 0003a1.ffffffff.0 000420.ffffffff.0 0013e2.ffffffff.0 001d3e.ffffffff.0 002119.ffffffff.0 00ff30.ffffffff.0
+AltUni2: 00ff30.ffffffff.0 002119.ffffffff.0 001d3e.ffffffff.0 0013e2.ffffffff.0 000420.ffffffff.0 0003a1.ffffffff.0 00ff30.ffffffff.0 002119.ffffffff.0 001d3e.ffffffff.0 0013e2.ffffffff.0 000420.ffffffff.0 0003a1.ffffffff.0
 Width: 543
 GlyphClass: 1
 Flags: W
@@ -3351,12 +3352,12 @@ SplineSet
  379 680 379 680 334 685 c 0,59,60
  221 697 221 697 107 648 c 1,44,45
 EndSplineSet
-Kerns2: 15 -368 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -349 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -139 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -229 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 15 -368 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -349 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -139 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -331 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -229 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -297 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -235 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -235 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: Q
 Encoding: 81 81 52
-AltUni2: 00211a.ffffffff.0 00a7f4.ffffffff.0 00ff31.ffffffff.0 00211a.ffffffff.0 00a7f4.ffffffff.0 00ff31.ffffffff.0
+AltUni2: 00ff31.ffffffff.0 00a7f4.ffffffff.0 00211a.ffffffff.0 00ff31.ffffffff.0 00a7f4.ffffffff.0 00211a.ffffffff.0
 Width: 634
 GlyphClass: 1
 Flags: W
@@ -3407,7 +3408,7 @@ EndChar
 
 StartChar: R
 Encoding: 82 82 53
-AltUni2: 0013a1.ffffffff.0 001d3f.ffffffff.0 00211b.ffffffff.0 00211c.ffffffff.0 00211d.ffffffff.0 00ff32.ffffffff.0 0013a1.ffffffff.0 001d3f.ffffffff.0 00211b.ffffffff.0 00211c.ffffffff.0 00211d.ffffffff.0 00ff32.ffffffff.0
+AltUni2: 00ff32.ffffffff.0 00211d.ffffffff.0 00211c.ffffffff.0 00211b.ffffffff.0 001d3f.ffffffff.0 0013a1.ffffffff.0 00ff32.ffffffff.0 00211d.ffffffff.0 00211c.ffffffff.0 00211b.ffffffff.0 001d3f.ffffffff.0 0013a1.ffffffff.0
 Width: 517
 GlyphClass: 1
 Flags: W
@@ -3478,7 +3479,7 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 54
-AltUni2: 000405.ffffffff.0 00054f.ffffffff.0 0013da.ffffffff.0 00ff33.ffffffff.0 000405.ffffffff.0 00054f.ffffffff.0 0013da.ffffffff.0 00ff33.ffffffff.0
+AltUni2: 00ff33.ffffffff.0 0013da.ffffffff.0 00054f.ffffffff.0 000405.ffffffff.0 00ff33.ffffffff.0 0013da.ffffffff.0 00054f.ffffffff.0 000405.ffffffff.0
 Width: 454
 GlyphClass: 1
 Flags: W
@@ -3533,7 +3534,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 55
-AltUni2: 0003a4.ffffffff.0 000422.ffffffff.0 0013a2.ffffffff.0 001d40.ffffffff.0 00ff34.ffffffff.0 0003a4.ffffffff.0 000422.ffffffff.0 0013a2.ffffffff.0 001d40.ffffffff.0 00ff34.ffffffff.0
+AltUni2: 00ff34.ffffffff.0 001d40.ffffffff.0 0013a2.ffffffff.0 000422.ffffffff.0 0003a4.ffffffff.0 00ff34.ffffffff.0 001d40.ffffffff.0 0013a2.ffffffff.0 000422.ffffffff.0 0003a4.ffffffff.0
 Width: 608
 GlyphClass: 1
 Flags: W
@@ -3647,12 +3648,12 @@ SplineSet
  395 792 395 792 281.798828125 772.80859375 c 1,71,-1
  218.96484375 40.8896484375 l 6,0,1
 EndSplineSet
-Kerns2: 19 -280 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -322 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -329 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -307 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -311 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -325 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -312 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 -300 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -288 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -316 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -314 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -262 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -338 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -265 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -291 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -280 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -320 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 -261 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -282 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -335 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -295 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -277 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -248 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -267 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -193 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 -245 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -272 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -277 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -192 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 -264 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -259 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -267 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 -282 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -276 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -322 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -312 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -307 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -284 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -303 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -278 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -300 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -251 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -332 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -290 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -310 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 19 -280 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -322 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -329 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -307 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -311 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -325 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -312 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 -300 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -288 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -316 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -314 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -262 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -338 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -265 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -291 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -280 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -320 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 -261 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -282 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -335 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -295 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -277 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -248 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -267 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -193 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 -245 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -272 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -277 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -192 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 -264 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -259 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -267 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 -282 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -276 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -322 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -312 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -307 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -284 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -303 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -278 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -300 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -251 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -332 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -290 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -310 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 -274 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -294 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: U
 Encoding: 85 85 56
-AltUni2: 001d41.ffffffff.0 00ff35.ffffffff.0 001d41.ffffffff.0 00ff35.ffffffff.0
+AltUni2: 00ff35.ffffffff.0 001d41.ffffffff.0 00ff35.ffffffff.0 001d41.ffffffff.0
 Width: 533
 GlyphClass: 1
 Flags: W
@@ -3710,7 +3711,7 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 57
-AltUni2: 0013d9.ffffffff.0 002164.ffffffff.0 002c7d.ffffffff.0 00ff36.ffffffff.0 0013d9.ffffffff.0 002164.ffffffff.0 002c7d.ffffffff.0 00ff36.ffffffff.0
+AltUni2: 00ff36.ffffffff.0 002c7d.ffffffff.0 002164.ffffffff.0 0013d9.ffffffff.0 00ff36.ffffffff.0 002c7d.ffffffff.0 002164.ffffffff.0 0013d9.ffffffff.0
 Width: 429
 GlyphClass: 1
 Flags: W
@@ -3750,7 +3751,7 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 58
-AltUni2: 0013b3.ffffffff.0 001d42.ffffffff.0 00ff37.ffffffff.0 0013b3.ffffffff.0 001d42.ffffffff.0 00ff37.ffffffff.0
+AltUni2: 00ff37.ffffffff.0 001d42.ffffffff.0 0013b3.ffffffff.0 00ff37.ffffffff.0 001d42.ffffffff.0 0013b3.ffffffff.0
 Width: 732
 GlyphClass: 1
 Flags: W
@@ -3825,7 +3826,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 59
-AltUni2: 0003a7.ffffffff.0 000425.ffffffff.0 002169.ffffffff.0 00ff38.ffffffff.0 0003a7.ffffffff.0 000425.ffffffff.0 002169.ffffffff.0 00ff38.ffffffff.0
+AltUni2: 00ff38.ffffffff.0 002169.ffffffff.0 000425.ffffffff.0 0003a7.ffffffff.0 00ff38.ffffffff.0 002169.ffffffff.0 000425.ffffffff.0 0003a7.ffffffff.0
 Width: 522
 GlyphClass: 1
 Flags: W
@@ -3874,7 +3875,7 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 60
-AltUni2: 0003a5.ffffffff.0 0003d2.ffffffff.0 0004ae.ffffffff.0 00ff39.ffffffff.0 0003a5.ffffffff.0 0003d2.ffffffff.0 0004ae.ffffffff.0 00ff39.ffffffff.0
+AltUni2: 00ff39.ffffffff.0 0004ae.ffffffff.0 0003d2.ffffffff.0 0003a5.ffffffff.0 00ff39.ffffffff.0 0004ae.ffffffff.0 0003d2.ffffffff.0 0003a5.ffffffff.0
 Width: 541
 GlyphClass: 1
 Flags: W
@@ -3925,7 +3926,7 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 61
-AltUni2: 000396.ffffffff.0 0013c3.ffffffff.0 002124.ffffffff.0 002128.ffffffff.0 00ff3a.ffffffff.0 000396.ffffffff.0 0013c3.ffffffff.0 002124.ffffffff.0 002128.ffffffff.0 00ff3a.ffffffff.0
+AltUni2: 00ff3a.ffffffff.0 002128.ffffffff.0 002124.ffffffff.0 0013c3.ffffffff.0 000396.ffffffff.0 00ff3a.ffffffff.0 002128.ffffffff.0 002124.ffffffff.0 0013c3.ffffffff.0 000396.ffffffff.0
 Width: 527
 GlyphClass: 1
 Flags: W
@@ -4024,7 +4025,7 @@ EndChar
 
 StartChar: bracketleft
 Encoding: 91 91 62
-AltUni2: 00fe47.ffffffff.0 00ff3b.ffffffff.0 00fe47.ffffffff.0 00ff3b.ffffffff.0
+AltUni2: 00ff3b.ffffffff.0 00fe47.ffffffff.0 00ff3b.ffffffff.0 00fe47.ffffffff.0
 Width: 260
 GlyphClass: 1
 Flags: W
@@ -4081,7 +4082,7 @@ EndChar
 
 StartChar: backslash
 Encoding: 92 92 63
-AltUni2: 002216.ffffffff.0 00fe68.ffffffff.0 00ff3c.ffffffff.0 002216.ffffffff.0 00fe68.ffffffff.0 00ff3c.ffffffff.0
+AltUni2: 00ff3c.ffffffff.0 00fe68.ffffffff.0 002216.ffffffff.0 00ff3c.ffffffff.0 00fe68.ffffffff.0 002216.ffffffff.0
 Width: 397
 GlyphClass: 1
 Flags: W
@@ -4120,7 +4121,7 @@ EndChar
 
 StartChar: bracketright
 Encoding: 93 93 64
-AltUni2: 00fe48.ffffffff.0 00ff3d.ffffffff.0 00fe48.ffffffff.0 00ff3d.ffffffff.0
+AltUni2: 00ff3d.ffffffff.0 00fe48.ffffffff.0 00ff3d.ffffffff.0 00fe48.ffffffff.0
 Width: 229
 GlyphClass: 1
 Flags: W
@@ -4178,7 +4179,7 @@ EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 65
-AltUni2: 0002c4.ffffffff.0 0002c6.ffffffff.0 000302.ffffffff.0 002303.ffffffff.0 00ff3e.ffffffff.0 0002c4.ffffffff.0 0002c6.ffffffff.0 000302.ffffffff.0 002303.ffffffff.0 00ff3e.ffffffff.0
+AltUni2: 00ff3e.ffffffff.0 002303.ffffffff.0 000302.ffffffff.0 0002c6.ffffffff.0 0002c4.ffffffff.0 00ff3e.ffffffff.0 002303.ffffffff.0 000302.ffffffff.0 0002c6.ffffffff.0 0002c4.ffffffff.0
 Width: 345
 GlyphClass: 1
 Flags: W
@@ -4256,7 +4257,7 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 66
-AltUni2: 00fe33.ffffffff.0 00fe34.ffffffff.0 00fe4d.ffffffff.0 00fe4e.ffffffff.0 00fe4f.ffffffff.0 00ff3f.ffffffff.0 00fe33.ffffffff.0 00fe34.ffffffff.0 00fe4d.ffffffff.0 00fe4e.ffffffff.0 00fe4f.ffffffff.0 00ff3f.ffffffff.0
+AltUni2: 00ff3f.ffffffff.0 00fe4f.ffffffff.0 00fe4e.ffffffff.0 00fe4d.ffffffff.0 00fe34.ffffffff.0 00fe33.ffffffff.0 00ff3f.ffffffff.0 00fe4f.ffffffff.0 00fe4e.ffffffff.0 00fe4d.ffffffff.0 00fe34.ffffffff.0 00fe33.ffffffff.0
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -4281,7 +4282,7 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 67
-AltUni2: 00060c.ffffffff.0 001fef.ffffffff.0 002018.ffffffff.0 002035.ffffffff.0 00ff40.ffffffff.0 00060c.ffffffff.0 001fef.ffffffff.0 002018.ffffffff.0 002035.ffffffff.0 00ff40.ffffffff.0
+AltUni2: 00ff40.ffffffff.0 002035.ffffffff.0 002018.ffffffff.0 001fef.ffffffff.0 00060c.ffffffff.0 00ff40.ffffffff.0 002035.ffffffff.0 002018.ffffffff.0 001fef.ffffffff.0 00060c.ffffffff.0
 Width: 261
 GlyphClass: 1
 Flags: W
@@ -4307,7 +4308,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 68
-AltUni2: 0000aa.ffffffff.0 000430.ffffffff.0 001d43.ffffffff.0 002090.ffffffff.0 00ff41.ffffffff.0 0000aa.ffffffff.0 000430.ffffffff.0 001d43.ffffffff.0 002090.ffffffff.0 00ff41.ffffffff.0
+AltUni2: 00ff41.ffffffff.0 002090.ffffffff.0 001d43.ffffffff.0 000430.ffffffff.0 0000aa.ffffffff.0 00ff41.ffffffff.0 002090.ffffffff.0 001d43.ffffffff.0 000430.ffffffff.0 0000aa.ffffffff.0
 Width: 421
 GlyphClass: 1
 Flags: W
@@ -4329,13 +4330,6 @@ InstructionsLength: 0
 EndUndoOperation
 EndUndoes
 Redoes
-RedoOperation
-Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 1
-Layer: 2
-EndRedoOperation
 EndRedoes
 EndUndoRedoHistory
 Fore
@@ -4385,7 +4379,7 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 69
-AltUni2: 001d47.ffffffff.0 00ff42.ffffffff.0 001d47.ffffffff.0 00ff42.ffffffff.0
+AltUni2: 00ff42.ffffffff.0 001d47.ffffffff.0 00ff42.ffffffff.0 001d47.ffffffff.0
 Width: 378
 GlyphClass: 1
 Flags: W
@@ -4512,7 +4506,7 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 70
-AltUni2: 000441.ffffffff.0 001d9c.ffffffff.0 00217d.ffffffff.0 00ff43.ffffffff.0 000441.ffffffff.0 001d9c.ffffffff.0 00217d.ffffffff.0 00ff43.ffffffff.0
+AltUni2: 00ff43.ffffffff.0 00217d.ffffffff.0 001d9c.ffffffff.0 000441.ffffffff.0 00ff43.ffffffff.0 00217d.ffffffff.0 001d9c.ffffffff.0 000441.ffffffff.0
 Width: 379
 GlyphClass: 1
 Flags: W
@@ -4579,7 +4573,7 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 71
-AltUni2: 001d48.ffffffff.0 002146.ffffffff.0 00217e.ffffffff.0 00ff44.ffffffff.0 001d48.ffffffff.0 002146.ffffffff.0 00217e.ffffffff.0 00ff44.ffffffff.0
+AltUni2: 00ff44.ffffffff.0 00217e.ffffffff.0 002146.ffffffff.0 001d48.ffffffff.0 00ff44.ffffffff.0 00217e.ffffffff.0 002146.ffffffff.0 001d48.ffffffff.0
 Width: 442
 GlyphClass: 1
 Flags: W
@@ -4598,13 +4592,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 3
-WasModified: 0
-WasOrder2: 1
-Layer: 2
 EndUndoOperation
 EndUndoes
 Redoes
@@ -4655,7 +4642,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 72
-AltUni2: 000435.ffffffff.0 001d49.ffffffff.0 002091.ffffffff.0 00212f.ffffffff.0 002147.ffffffff.0 00ff45.ffffffff.0 000435.ffffffff.0 001d49.ffffffff.0 002091.ffffffff.0 00212f.ffffffff.0 002147.ffffffff.0 00ff45.ffffffff.0
+AltUni2: 00ff45.ffffffff.0 002147.ffffffff.0 00212f.ffffffff.0 002091.ffffffff.0 001d49.ffffffff.0 000435.ffffffff.0 00ff45.ffffffff.0 002147.ffffffff.0 00212f.ffffffff.0 002091.ffffffff.0 001d49.ffffffff.0 000435.ffffffff.0
 Width: 343
 GlyphClass: 1
 Flags: W
@@ -4691,7 +4678,7 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 73
-AltUni2: 000584.ffffffff.0 001da0.ffffffff.0 00ff46.ffffffff.0 000584.ffffffff.0 001da0.ffffffff.0 00ff46.ffffffff.0
+AltUni2: 00ff46.ffffffff.0 001da0.ffffffff.0 000584.ffffffff.0 00ff46.ffffffff.0 001da0.ffffffff.0 000584.ffffffff.0
 Width: 287
 GlyphClass: 1
 Flags: W
@@ -4710,56 +4697,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 1
-WasOrder2: 1
-Layer: 2
-Width: 269
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-SplineSet
-85 301 m 1,0,1
- 87 479 87 479 138 582 c 0,2,3
- 146 599 146 599 156 610 c 0,4,5
- 169 625 169 625 184 629 c 0,6,7
- 204 633 204 633 221 620 c 0,8,9
- 229 614 229 614 238 600 c 0,10,11
- 253 570 253 570 258 522 c 0,12,13
- 259 509 259 509 251 498.5 c 128,-1,14
- 243 488 243 488 229 486 c 0,15,16
- 216 485 216 485 205.5 493 c 128,-1,17
- 195 501 195 501 193 515 c 2,18,-1
- 190 539 l 1,19,20
- 153 455 153 455 150 307 c 1,21,22
- 152 307 152 307 162 309.5 c 128,-1,23
- 172 312 172 312 180 314 c 0,24,25
- 185 315 185 315 212 321 c 0,26,27
- 225 323 225 323 236.5 315.5 c 128,-1,28
- 248 308 248 308 250 295 c 0,29,30
- 253 282 253 282 245.5 270.5 c 128,-1,31
- 238 259 238 259 225 257 c 0,32,33
- 200 252 200 252 195 250 c 0,34,35
- 184 248 184 248 171.5 245 c 128,-1,36
- 159 242 159 242 153 241 c 2,37,-1
- 151 241 l 1,38,39
- 159 71 159 71 201 -39 c 0,40,41
- 206 -52 206 -52 200.5 -64 c 128,-1,42
- 195 -76 195 -76 182 -81 c 0,43,44
- 170 -86 170 -86 157.5 -80.5 c 128,-1,45
- 145 -75 145 -75 140 -62 c 0,46,47
- 93 62 93 62 87 236 c 1,48,49
- 65 238 65 238 46 242 c 0,50,51
- 33 246 33 246 26 257 c 128,-1,52
- 19 268 19 268 22 282 c 0,53,54
- 26 295 26 295 37.5 302 c 128,-1,55
- 49 309 49 309 62 305 c 0,56,57
- 71 303 71 303 85 301 c 1,0,1
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -4808,7 +4745,7 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 74
-AltUni2: 001d4d.ffffffff.0 00210a.ffffffff.0 00ff47.ffffffff.0 001d4d.ffffffff.0 00210a.ffffffff.0 00ff47.ffffffff.0
+AltUni2: 00ff47.ffffffff.0 00210a.ffffffff.0 001d4d.ffffffff.0 00ff47.ffffffff.0 00210a.ffffffff.0 001d4d.ffffffff.0
 Width: 361
 GlyphClass: 1
 Flags: W
@@ -4943,7 +4880,7 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 75
-AltUni2: 0002b0.ffffffff.0 000570.ffffffff.0 0013c2.ffffffff.0 002095.ffffffff.0 00210e.ffffffff.0 00ff48.ffffffff.0 0002b0.ffffffff.0 000570.ffffffff.0 0013c2.ffffffff.0 002095.ffffffff.0 00210e.ffffffff.0 00ff48.ffffffff.0
+AltUni2: 00ff48.ffffffff.0 00210e.ffffffff.0 002095.ffffffff.0 0013c2.ffffffff.0 000570.ffffffff.0 0002b0.ffffffff.0 00ff48.ffffffff.0 00210e.ffffffff.0 002095.ffffffff.0 0013c2.ffffffff.0 000570.ffffffff.0 0002b0.ffffffff.0
 Width: 315
 GlyphClass: 1
 Flags: W
@@ -4988,7 +4925,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 76
-AltUni2: 000456.ffffffff.0 001d62.ffffffff.0 002071.ffffffff.0 002139.ffffffff.0 002148.ffffffff.0 002170.ffffffff.0 00ff49.ffffffff.0 000456.ffffffff.0 001d62.ffffffff.0 002071.ffffffff.0 002139.ffffffff.0 002148.ffffffff.0 002170.ffffffff.0 00ff49.ffffffff.0
+AltUni2: 00ff49.ffffffff.0 002170.ffffffff.0 002148.ffffffff.0 002139.ffffffff.0 002071.ffffffff.0 001d62.ffffffff.0 000456.ffffffff.0 00ff49.ffffffff.0 002170.ffffffff.0 002148.ffffffff.0 002139.ffffffff.0 002071.ffffffff.0 001d62.ffffffff.0 000456.ffffffff.0
 Width: 154
 GlyphClass: 1
 Flags: W
@@ -5014,7 +4951,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 77
-AltUni2: 0002b2.ffffffff.0 000458.ffffffff.0 002149.ffffffff.0 002c7c.ffffffff.0 00ff4a.ffffffff.0 0002b2.ffffffff.0 000458.ffffffff.0 002149.ffffffff.0 002c7c.ffffffff.0 00ff4a.ffffffff.0
+AltUni2: 00ff4a.ffffffff.0 002c7c.ffffffff.0 002149.ffffffff.0 000458.ffffffff.0 0002b2.ffffffff.0 00ff4a.ffffffff.0 002c7c.ffffffff.0 002149.ffffffff.0 000458.ffffffff.0 0002b2.ffffffff.0
 Width: 199
 GlyphClass: 1
 Flags: W
@@ -5040,7 +4977,7 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 78
-AltUni2: 001d4f.ffffffff.0 002096.ffffffff.0 00ff4b.ffffffff.0 001d4f.ffffffff.0 002096.ffffffff.0 00ff4b.ffffffff.0
+AltUni2: 00ff4b.ffffffff.0 002096.ffffffff.0 001d4f.ffffffff.0 00ff4b.ffffffff.0 002096.ffffffff.0 001d4f.ffffffff.0
 Width: 364
 GlyphClass: 1
 Flags: W
@@ -5103,7 +5040,7 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 79
-AltUni2: 0002e1.ffffffff.0 002097.ffffffff.0 002113.ffffffff.0 00217c.ffffffff.0 00ff4c.ffffffff.0 0002e1.ffffffff.0 002097.ffffffff.0 002113.ffffffff.0 00217c.ffffffff.0 00ff4c.ffffffff.0
+AltUni2: 00ff4c.ffffffff.0 00217c.ffffffff.0 002113.ffffffff.0 002097.ffffffff.0 0002e1.ffffffff.0 00ff4c.ffffffff.0 00217c.ffffffff.0 002113.ffffffff.0 002097.ffffffff.0 0002e1.ffffffff.0
 Width: 201
 GlyphClass: 1
 Flags: W
@@ -5137,7 +5074,7 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 80
-AltUni2: 001d50.ffffffff.0 002098.ffffffff.0 00217f.ffffffff.0 00ff4d.ffffffff.0 001d50.ffffffff.0 002098.ffffffff.0 00217f.ffffffff.0 00ff4d.ffffffff.0
+AltUni2: 00ff4d.ffffffff.0 00217f.ffffffff.0 002098.ffffffff.0 001d50.ffffffff.0 00ff4d.ffffffff.0 00217f.ffffffff.0 002098.ffffffff.0 001d50.ffffffff.0
 Width: 520
 GlyphClass: 1
 Flags: W
@@ -5156,98 +5093,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 1
-WasOrder2: 1
-Layer: 2
-Width: 476
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-SplineSet
-147 355 m 1,0,1
- 139 345 139 345 131 322 c 0,2,3
- 116 277 116 277 114 199 c 0,4,5
- 113 140 113 140 117 67 c 0,6,7
- 118 64 118 64 118.5 57.5 c 128,-1,8
- 119 51 119 51 119 48 c 0,9,10
- 119 46 119 46 120 38 c 2,11,-1
- 120 31 l 2,12,13
- 120 21 120 21 115 11 c 0,14,15
- 106 -8 106 -8 87 -10 c 0,16,17
- 73 -11 73 -11 63 -2 c 128,-1,18
- 53 7 53 7 52 20 c 0,19,20
- 49 51 49 51 48 63 c 0,21,22
- 46 77 46 77 45 87 c 2,23,-1
- 45 93 l 2,24,25
- 44 98 44 98 44 99 c 0,26,27
- 44 101 44 101 43.5 105.5 c 128,-1,28
- 43 110 43 110 42 112 c 0,29,30
- 35 182 35 182 34 205 c 0,31,32
- 29 283 29 283 34 326 c 0,33,34
- 36 340 36 340 46.5 348 c 128,-1,35
- 57 356 57 356 70 355 c 2,36,-1
- 73 355 l 1,37,38
- 84 383 84 383 100 399 c 0,39,40
- 124 426 124 426 160 429 c 0,41,42
- 178 429 178 429 189 416 c 0,43,44
- 191 414 191 414 197 404 c 0,45,46
- 204 390 204 390 207 379 c 0,47,48
- 220 345 220 345 229 303 c 0,49,50
- 237 275 237 275 246 222 c 1,51,52
- 267 326 267 326 290 370 c 0,53,54
- 300 388 300 388 309 396 c 0,55,56
- 325 412 325 412 345 413 c 0,57,58
- 368 413 368 413 384 398 c 0,59,60
- 396 386 396 386 407 366 c 0,61,62
- 442 299 442 299 456 219 c 0,63,64
- 460 191 460 191 464 147 c 0,65,66
- 465 131 465 131 465 90 c 2,67,-1
- 465 87 l 1,68,-1
- 465 84 l 2,69,70
- 465 83 465 83 466 81 c 2,71,-1
- 466 79 l 1,72,-1
- 466 68 l 1,73,-1
- 466 22 l 1,74,-1
- 461 -21 l 2,75,76
- 460 -34 460 -34 449 -42.5 c 128,-1,77
- 438 -51 438 -51 425 -49 c 0,78,79
- 411 -47 411 -47 403 -36.5 c 128,-1,80
- 395 -26 395 -26 396 -13 c 0,81,82
- 396 -12 396 -12 398.5 6 c 128,-1,83
- 401 24 401 24 401 27 c 2,84,-1
- 401 66 l 1,85,-1
- 401 78 l 1,86,-1
- 400 80 l 2,87,88
- 400 82 400 82 400 83 c 2,89,-1
- 400 86 l 1,90,-1
- 400 89 l 2,91,92
- 400 129 400 129 399 144 c 0,93,94
- 396 182 396 182 392 208 c 0,95,96
- 379 280 379 280 349 335 c 0,97,98
- 349 336 349 336 348 338 c 1,99,100
- 329 303 329 303 309 203 c 0,101,102
- 308 198 308 198 306 188.5 c 128,-1,103
- 304 179 304 179 302.5 170 c 128,-1,104
- 301 161 301 161 299 153 c 0,105,106
- 297 136 297 136 295 129 c 0,107,108
- 295 126 295 126 291 106 c 0,109,110
- 281 50 281 50 277 39 c 0,111,112
- 271 17 271 17 257 6 c 0,113,114
- 249 -1 249 -1 240 -2 c 0,115,116
- 225 -7 225 -7 210 5 c 0,117,118
- 203 11 203 11 199 22 c 0,119,120
- 197 30 197 30 197 33 c 0,121,122
- 196 44 196 44 198 63 c 2,123,-1
- 198 64 l 2,124,125
- 199 75 199 75 199 82 c 0,126,127
- 191 184 191 184 166 288 c 0,128,129
- 158 324 158 324 147 355 c 1,0,1
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -5338,7 +5183,7 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 81
-AltUni2: 000578.ffffffff.0 00207f.ffffffff.0 002099.ffffffff.0 00ff4e.ffffffff.0 000578.ffffffff.0 00207f.ffffffff.0 002099.ffffffff.0 00ff4e.ffffffff.0
+AltUni2: 00ff4e.ffffffff.0 002099.ffffffff.0 00207f.ffffffff.0 000578.ffffffff.0 00ff4e.ffffffff.0 002099.ffffffff.0 00207f.ffffffff.0 000578.ffffffff.0
 Width: 352
 GlyphClass: 1
 Flags: W
@@ -5396,7 +5241,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 82
-AltUni2: 0000ba.ffffffff.0 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0 001d52.ffffffff.0 002092.ffffffff.0 002134.ffffffff.0 00ff4f.ffffffff.0 0000ba.ffffffff.0 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0 001d52.ffffffff.0 002092.ffffffff.0 002134.ffffffff.0 00ff4f.ffffffff.0
+AltUni2: 00ff4f.ffffffff.0 002134.ffffffff.0 002092.ffffffff.0 001d52.ffffffff.0 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0 0000ba.ffffffff.0 00ff4f.ffffffff.0 002134.ffffffff.0 002092.ffffffff.0 001d52.ffffffff.0 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0 0000ba.ffffffff.0
 Width: 414
 GlyphClass: 1
 Flags: W
@@ -5440,7 +5285,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 83
-AltUni2: 0003c1.ffffffff.0 0003f1.ffffffff.0 000440.ffffffff.0 001d56.ffffffff.0 00209a.ffffffff.0 00ff50.ffffffff.0 0003c1.ffffffff.0 0003f1.ffffffff.0 000440.ffffffff.0 001d56.ffffffff.0 00209a.ffffffff.0 00ff50.ffffffff.0
+AltUni2: 00ff50.ffffffff.0 00209a.ffffffff.0 001d56.ffffffff.0 000440.ffffffff.0 0003f1.ffffffff.0 0003c1.ffffffff.0 00ff50.ffffffff.0 00209a.ffffffff.0 001d56.ffffffff.0 000440.ffffffff.0 0003f1.ffffffff.0 0003c1.ffffffff.0
 Width: 399
 GlyphClass: 1
 Flags: W
@@ -5601,7 +5446,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 85
-AltUni2: 0002b3.ffffffff.0 001d63.ffffffff.0 00ff52.ffffffff.0 0002b3.ffffffff.0 001d63.ffffffff.0 00ff52.ffffffff.0
+AltUni2: 00ff52.ffffffff.0 001d63.ffffffff.0 0002b3.ffffffff.0 00ff52.ffffffff.0 001d63.ffffffff.0 0002b3.ffffffff.0
 Width: 361
 GlyphClass: 1
 Flags: W
@@ -5646,7 +5491,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 86
-AltUni2: 00017f.ffffffff.0 0002e2.ffffffff.0 000455.ffffffff.0 00209b.ffffffff.0 00ff53.ffffffff.0 00017f.ffffffff.0 0002e2.ffffffff.0 000455.ffffffff.0 00209b.ffffffff.0 00ff53.ffffffff.0
+AltUni2: 00ff53.ffffffff.0 00209b.ffffffff.0 000455.ffffffff.0 0002e2.ffffffff.0 00017f.ffffffff.0 00ff53.ffffffff.0 00209b.ffffffff.0 000455.ffffffff.0 0002e2.ffffffff.0 00017f.ffffffff.0
 Width: 360
 GlyphClass: 1
 Flags: W
@@ -5702,7 +5547,7 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 87
-AltUni2: 001d57.ffffffff.0 00209c.ffffffff.0 00ff54.ffffffff.0 001d57.ffffffff.0 00209c.ffffffff.0 00ff54.ffffffff.0
+AltUni2: 00ff54.ffffffff.0 00209c.ffffffff.0 001d57.ffffffff.0 00ff54.ffffffff.0 00209c.ffffffff.0 001d57.ffffffff.0
 Width: 266
 GlyphClass: 1
 Flags: W
@@ -5753,7 +5598,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 88
-AltUni2: 00057d.ffffffff.0 001d58.ffffffff.0 001d64.ffffffff.0 00ff55.ffffffff.0 00057d.ffffffff.0 001d58.ffffffff.0 001d64.ffffffff.0 00ff55.ffffffff.0
+AltUni2: 00ff55.ffffffff.0 001d64.ffffffff.0 001d58.ffffffff.0 00057d.ffffffff.0 00ff55.ffffffff.0 001d64.ffffffff.0 001d58.ffffffff.0 00057d.ffffffff.0
 Width: 384
 GlyphClass: 1
 Flags: W
@@ -5810,7 +5655,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 89
-AltUni2: 001d5b.ffffffff.0 001d65.ffffffff.0 002174.ffffffff.0 00ff56.ffffffff.0 001d5b.ffffffff.0 001d65.ffffffff.0 002174.ffffffff.0 00ff56.ffffffff.0
+AltUni2: 00ff56.ffffffff.0 002174.ffffffff.0 001d65.ffffffff.0 001d5b.ffffffff.0 00ff56.ffffffff.0 002174.ffffffff.0 001d65.ffffffff.0 001d5b.ffffffff.0
 Width: 376
 GlyphClass: 1
 Flags: W
@@ -5859,7 +5704,7 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 90
-AltUni2: 0002b7.ffffffff.0 00ff57.ffffffff.0 0002b7.ffffffff.0 00ff57.ffffffff.0
+AltUni2: 00ff57.ffffffff.0 0002b7.ffffffff.0 00ff57.ffffffff.0 0002b7.ffffffff.0
 Width: 540
 GlyphClass: 1
 Flags: W
@@ -5926,7 +5771,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 91
-AltUni2: 0002e3.ffffffff.0 0003c7.ffffffff.0 000445.ffffffff.0 001d61.ffffffff.0 002093.ffffffff.0 002179.ffffffff.0 00ff58.ffffffff.0 0002e3.ffffffff.0 0003c7.ffffffff.0 000445.ffffffff.0 001d61.ffffffff.0 002093.ffffffff.0 002179.ffffffff.0 00ff58.ffffffff.0
+AltUni2: 00ff58.ffffffff.0 002179.ffffffff.0 002093.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0 0003c7.ffffffff.0 0002e3.ffffffff.0 00ff58.ffffffff.0 002179.ffffffff.0 002093.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0 0003c7.ffffffff.0 0002e3.ffffffff.0
 Width: 376
 GlyphClass: 1
 Flags: W
@@ -5976,7 +5821,7 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 92
-AltUni2: 0002b8.ffffffff.0 000443.ffffffff.0 00ff59.ffffffff.0 0002b8.ffffffff.0 000443.ffffffff.0 00ff59.ffffffff.0
+AltUni2: 00ff59.ffffffff.0 000443.ffffffff.0 0002b8.ffffffff.0 00ff59.ffffffff.0 000443.ffffffff.0 0002b8.ffffffff.0
 Width: 343
 GlyphClass: 1
 Flags: W
@@ -6032,7 +5877,7 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 93
-AltUni2: 001dbb.ffffffff.0 00ff5a.ffffffff.0 001dbb.ffffffff.0 00ff5a.ffffffff.0
+AltUni2: 00ff5a.ffffffff.0 001dbb.ffffffff.0 00ff5a.ffffffff.0 001dbb.ffffffff.0
 Width: 412
 GlyphClass: 1
 Flags: W
@@ -6104,7 +5949,7 @@ EndChar
 
 StartChar: braceleft
 Encoding: 123 123 94
-AltUni2: 00fe37.ffffffff.0 00fe5b.ffffffff.0 00ff5b.ffffffff.0 00fe37.ffffffff.0 00fe5b.ffffffff.0 00ff5b.ffffffff.0
+AltUni2: 00ff5b.ffffffff.0 00fe5b.ffffffff.0 00fe37.ffffffff.0 00ff5b.ffffffff.0 00fe5b.ffffffff.0 00fe37.ffffffff.0
 Width: 357
 GlyphClass: 1
 Flags: W
@@ -6168,7 +6013,7 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 95
-AltUni2: 0001c0.ffffffff.0 002223.ffffffff.0 002502.ffffffff.0 002758.ffffffff.0 00ff5c.ffffffff.0 00ffe8.ffffffff.0 0001c0.ffffffff.0 002223.ffffffff.0 002502.ffffffff.0 002758.ffffffff.0 00ff5c.ffffffff.0 00ffe8.ffffffff.0
+AltUni2: 00ffe8.ffffffff.0 00ff5c.ffffffff.0 002758.ffffffff.0 002502.ffffffff.0 002223.ffffffff.0 0001c0.ffffffff.0 00ffe8.ffffffff.0 00ff5c.ffffffff.0 002758.ffffffff.0 002502.ffffffff.0 002223.ffffffff.0 0001c0.ffffffff.0
 Width: 173
 GlyphClass: 1
 Flags: W
@@ -6216,7 +6061,7 @@ EndChar
 
 StartChar: braceright
 Encoding: 125 125 96
-AltUni2: 00fe38.ffffffff.0 00fe5c.ffffffff.0 00ff5d.ffffffff.0 00fe38.ffffffff.0 00fe5c.ffffffff.0 00ff5d.ffffffff.0
+AltUni2: 00ff5d.ffffffff.0 00fe5c.ffffffff.0 00fe38.ffffffff.0 00ff5d.ffffffff.0 00fe5c.ffffffff.0 00fe38.ffffffff.0
 Width: 381
 GlyphClass: 1
 Flags: W
@@ -6277,7 +6122,7 @@ EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 97
-AltUni2: 000303.ffffffff.0 00223c.ffffffff.0 00ff5e.ffffffff.0 000303.ffffffff.0 00223c.ffffffff.0 00ff5e.ffffffff.0
+AltUni2: 00ff5e.ffffffff.0 00223c.ffffffff.0 000303.ffffffff.0 00ff5e.ffffffff.0 00223c.ffffffff.0 000303.ffffffff.0
 Width: 406
 GlyphClass: 1
 Flags: W
@@ -6839,7 +6684,7 @@ EndChar
 
 StartChar: guillemotleft
 Encoding: 171 171 107
-AltUni2: 00226a.ffffffff.0 00300a.ffffffff.0 00fe3d.ffffffff.0 00226a.ffffffff.0 00300a.ffffffff.0 00fe3d.ffffffff.0
+AltUni2: 00fe3d.ffffffff.0 00300a.ffffffff.0 00226a.ffffffff.0 00fe3d.ffffffff.0 00300a.ffffffff.0 00226a.ffffffff.0
 Width: 428
 GlyphClass: 1
 Flags: W
@@ -7032,7 +6877,7 @@ EndChar
 
 StartChar: degree
 Encoding: 176 176 111
-AltUni2: 00030a.ffffffff.0 002218.ffffffff.0 0025e6.ffffffff.0 00030a.ffffffff.0 002218.ffffffff.0 0025e6.ffffffff.0
+AltUni2: 0025e6.ffffffff.0 002218.ffffffff.0 00030a.ffffffff.0 0025e6.ffffffff.0 002218.ffffffff.0 00030a.ffffffff.0
 Width: 312
 GlyphClass: 1
 Flags: W
@@ -7122,7 +6967,7 @@ EndChar
 
 StartChar: acute
 Encoding: 180 180 113
-AltUni2: 000301.ffffffff.0 000341.ffffffff.0 001ffd.ffffffff.0 000301.ffffffff.0 000341.ffffffff.0 001ffd.ffffffff.0
+AltUni2: 001ffd.ffffffff.0 000341.ffffffff.0 000301.ffffffff.0 001ffd.ffffffff.0 000341.ffffffff.0 000301.ffffffff.0
 Width: 279
 GlyphClass: 1
 Flags: W
@@ -7270,7 +7115,7 @@ EndChar
 
 StartChar: periodcentered
 Encoding: 183 183 116
-AltUni2: 000387.ffffffff.0 0006d4.ffffffff.0 002219.ffffffff.0 0022c5.ffffffff.0 000387.ffffffff.0 0006d4.ffffffff.0 002219.ffffffff.0 0022c5.ffffffff.0
+AltUni2: 0022c5.ffffffff.0 002219.ffffffff.0 0006d4.ffffffff.0 000387.ffffffff.0 0022c5.ffffffff.0 002219.ffffffff.0 0006d4.ffffffff.0 000387.ffffffff.0
 Width: 264
 GlyphClass: 1
 Flags: W
@@ -7345,7 +7190,7 @@ EndChar
 
 StartChar: guillemotright
 Encoding: 187 187 118
-AltUni2: 00226b.ffffffff.0 00300b.ffffffff.0 00fe3e.ffffffff.0 00226b.ffffffff.0 00300b.ffffffff.0 00fe3e.ffffffff.0
+AltUni2: 00fe3e.ffffffff.0 00300b.ffffffff.0 00226b.ffffffff.0 00fe3e.ffffffff.0 00300b.ffffffff.0 00226b.ffffffff.0
 Width: 470
 GlyphClass: 1
 Flags: W
@@ -10043,44 +9888,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 1
-WasOrder2: 1
-Layer: 2
-Width: 144
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-SplineSet
-125 53 m 1,0,1
- 120 61 120 61 116 63.5 c 128,-1,2
- 112 66 112 66 99 66 c 1,3,4
- 115 66 115 66 125 53 c 1,0,1
-107 352 m 0,5,6
- 97 212 97 212 112 112 c 0,7,8
- 116 80 116 80 123 61 c 0,9,10
- 124 57 124 57 126 51 c 0,11,12
- 131 43 131 43 131 34 c 0,13,14
- 131 20 131 20 121.5 10.5 c 128,-1,15
- 112 1 112 1 99 1 c 128,-1,16
- 86 1 86 1 81.5 4 c 128,-1,17
- 77 7 77 7 70 19 c 0,18,19
- 68 21 68 21 66 25 c 0,20,21
- 66 27 66 27 65 29 c 128,-1,22
- 64 31 64 31 63.5 32.5 c 128,-1,23
- 63 34 63 34 62.5 37 c 128,-1,24
- 62 40 62 40 61 42 c 0,25,26
- 55 63 55 63 48 102 c 0,27,28
- 32 208 32 208 42 356 c 0,29,30
- 43 370 43 370 53 379 c 128,-1,31
- 63 388 63 388 76 387 c 128,-1,32
- 89 386 89 386 98.5 376 c 128,-1,33
- 108 366 108 366 107 352 c 0,5,6
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -12862,49 +12669,6 @@ LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
 EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 1
-WasOrder2: 1
-Layer: 2
-Width: 176
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-SplineSet
-151 315 m 0,0,1
- 147 268 147 268 133 157 c 0,2,3
- 124 86 124 86 120 40 c 0,4,5
- 107 -90 107 -90 111 -170 c 0,6,7
- 111 -186 111 -186 117 -234 c 1,8,-1
- 117 -236 l 1,9,10
- 127 -246 127 -246 129 -263 c 2,11,-1
- 129 -267 l 2,12,13
- 130 -269 130 -269 130 -273 c 0,14,15
- 131 -276 131 -276 131 -284 c 0,16,17
- 131 -306 131 -306 119 -320 c 0,18,19
- 113 -327 113 -327 104 -330 c 0,20,21
- 92 -336 92 -336 79 -328 c 0,22,23
- 72 -323 72 -323 65 -314 c 0,24,25
- 63 -311 63 -311 61 -304 c 0,26,27
- 57 -290 57 -290 56 -279 c 2,28,-1
- 55 -267 l 1,29,-1
- 55 -266 l 2,30,31
- 55 -264 55 -264 54.5 -260 c 128,-1,32
- 54 -256 54 -256 54 -254 c 0,33,34
- 53 -251 53 -251 53 -245 c 0,35,36
- 48 -208 48 -208 46 -173 c 0,37,38
- 42 -84 42 -84 56 50 c 0,39,40
- 60 96 60 96 69 168 c 0,41,42
- 79 246 79 246 86 324 c 0,43,44
- 88 340 88 340 98.5 350 c 128,-1,45
- 109 360 109 360 122 358 c 0,46,47
- 136 356 136 356 144 343.5 c 128,-1,48
- 152 331 152 331 151 315 c 0,0,1
-EndSplineSet
-EndUndoOperation
 EndUndoes
 Redoes
 EndRedoes
@@ -14177,7 +13941,7 @@ EndChar
 
 StartChar: uni1160
 Encoding: 4448 4448 387
-AltUni2: 003164.ffffffff.0 00ffa0.ffffffff.0 003164.ffffffff.0 00ffa0.ffffffff.0
+AltUni2: 00ffa0.ffffffff.0 003164.ffffffff.0 00ffa0.ffffffff.0 003164.ffffffff.0
 Width: 0
 GlyphClass: 1
 Flags: W

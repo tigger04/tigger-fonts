@@ -751,10 +751,10 @@ GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 32 8
+WinInfo: 64 8 2
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 0 subtable"
 BeginChars: 65985 1403
 
@@ -797,7 +797,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 3
-AltUni2: 0000a0.ffffffff.0 002000.ffffffff.0 002001.ffffffff.0 002002.ffffffff.0 002003.ffffffff.0 002004.ffffffff.0 002005.ffffffff.0 002006.ffffffff.0 002007.ffffffff.0 002008.ffffffff.0 002009.ffffffff.0 00200a.ffffffff.0 00202f.ffffffff.0 00205f.ffffffff.0 003000.ffffffff.0 0000a0.ffffffff.0 002000.ffffffff.0 002001.ffffffff.0 002002.ffffffff.0 002003.ffffffff.0 002004.ffffffff.0 002005.ffffffff.0 002006.ffffffff.0 002007.ffffffff.0 002008.ffffffff.0 002009.ffffffff.0 00200a.ffffffff.0 00202f.ffffffff.0 00205f.ffffffff.0 003000.ffffffff.0
+AltUni2: 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 002001.ffffffff.0 002000.ffffffff.0 0000a0.ffffffff.0 003000.ffffffff.0 00205f.ffffffff.0 00202f.ffffffff.0 00200a.ffffffff.0 002009.ffffffff.0 002008.ffffffff.0 002007.ffffffff.0 002006.ffffffff.0 002005.ffffffff.0 002004.ffffffff.0 002003.ffffffff.0 002002.ffffffff.0 002001.ffffffff.0 002000.ffffffff.0 0000a0.ffffffff.0
 Width: 254
 GlyphClass: 1
 Flags: W
@@ -806,7 +806,7 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 4
-AltUni2: 002762.ffffffff.0 00fe15.ffffffff.0 00fe57.ffffffff.0 00ff01.ffffffff.0 002762.ffffffff.0 00fe15.ffffffff.0 00fe57.ffffffff.0 00ff01.ffffffff.0
+AltUni2: 00ff01.ffffffff.0 00fe57.ffffffff.0 00fe15.ffffffff.0 002762.ffffffff.0 00ff01.ffffffff.0 00fe57.ffffffff.0 00fe15.ffffffff.0 002762.ffffffff.0
 Width: 176
 GlyphClass: 1
 Flags: W
@@ -843,7 +843,7 @@ EndChar
 
 StartChar: quotedbl
 Encoding: 34 34 5
-AltUni2: 0002ba.ffffffff.0 00030b.ffffffff.0 00030e.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00ff02.ffffffff.0 0002ba.ffffffff.0 00030b.ffffffff.0 00030e.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00ff02.ffffffff.0
+AltUni2: 00ff02.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00030e.ffffffff.0 00030b.ffffffff.0 0002ba.ffffffff.0 00ff02.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00030e.ffffffff.0 00030b.ffffffff.0 0002ba.ffffffff.0
 Width: 292
 GlyphClass: 1
 Flags: W
@@ -889,7 +889,7 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 6
-AltUni2: 00fe5f.ffffffff.0 00ff03.ffffffff.0 00fe5f.ffffffff.0 00ff03.ffffffff.0
+AltUni2: 00ff03.ffffffff.0 00fe5f.ffffffff.0 00ff03.ffffffff.0 00fe5f.ffffffff.0
 Width: 731
 GlyphClass: 1
 Flags: W
@@ -988,7 +988,7 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 7
-AltUni2: 00fe69.ffffffff.0 00ff04.ffffffff.0 00fe69.ffffffff.0 00ff04.ffffffff.0
+AltUni2: 00ff04.ffffffff.0 00fe69.ffffffff.0 00ff04.ffffffff.0 00fe69.ffffffff.0
 Width: 595
 GlyphClass: 1
 Flags: W
@@ -1065,7 +1065,7 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 8
-AltUni2: 00066a.ffffffff.0 00fe6a.ffffffff.0 00ff05.ffffffff.0 00066a.ffffffff.0 00fe6a.ffffffff.0 00ff05.ffffffff.0
+AltUni2: 00ff05.ffffffff.0 00fe6a.ffffffff.0 00066a.ffffffff.0 00ff05.ffffffff.0 00fe6a.ffffffff.0 00066a.ffffffff.0
 Width: 731
 GlyphClass: 1
 Flags: W
@@ -1132,7 +1132,7 @@ EndChar
 
 StartChar: ampersand
 Encoding: 38 38 9
-AltUni2: 00fe60.ffffffff.0 00ff06.ffffffff.0 00fe60.ffffffff.0 00ff06.ffffffff.0
+AltUni2: 00ff06.ffffffff.0 00fe60.ffffffff.0 00ff06.ffffffff.0 00fe60.ffffffff.0
 Width: 650
 GlyphClass: 1
 Flags: W
@@ -1200,7 +1200,7 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 10
-AltUni2: 0002b9.ffffffff.0 0002bc.ffffffff.0 0002c8.ffffffff.0 000374.ffffffff.0 002019.ffffffff.0 002032.ffffffff.0 00ff07.ffffffff.0 0002b9.ffffffff.0 0002bc.ffffffff.0 0002c8.ffffffff.0 000374.ffffffff.0 002019.ffffffff.0 002032.ffffffff.0 00ff07.ffffffff.0
+AltUni2: 00ff07.ffffffff.0 002032.ffffffff.0 002019.ffffffff.0 000374.ffffffff.0 0002c8.ffffffff.0 0002bc.ffffffff.0 0002b9.ffffffff.0 00ff07.ffffffff.0 002032.ffffffff.0 002019.ffffffff.0 000374.ffffffff.0 0002c8.ffffffff.0 0002bc.ffffffff.0 0002b9.ffffffff.0
 Width: 196
 GlyphClass: 1
 Flags: W
@@ -1223,7 +1223,7 @@ EndChar
 
 StartChar: parenleft
 Encoding: 40 40 11
-AltUni2: 00207d.ffffffff.0 00208d.ffffffff.0 00fe35.ffffffff.0 00fe59.ffffffff.0 00ff08.ffffffff.0 00207d.ffffffff.0 00208d.ffffffff.0 00fe35.ffffffff.0 00fe59.ffffffff.0 00ff08.ffffffff.0
+AltUni2: 00ff08.ffffffff.0 00fe59.ffffffff.0 00fe35.ffffffff.0 00208d.ffffffff.0 00207d.ffffffff.0 00ff08.ffffffff.0 00fe59.ffffffff.0 00fe35.ffffffff.0 00208d.ffffffff.0 00207d.ffffffff.0
 Width: 353
 GlyphClass: 1
 Flags: W
@@ -1235,7 +1235,7 @@ EndChar
 
 StartChar: parenright
 Encoding: 41 41 12
-AltUni2: 00207e.ffffffff.0 00208e.ffffffff.0 00fe36.ffffffff.0 00fe5a.ffffffff.0 00ff09.ffffffff.0 00207e.ffffffff.0 00208e.ffffffff.0 00fe36.ffffffff.0 00fe5a.ffffffff.0 00ff09.ffffffff.0
+AltUni2: 00ff09.ffffffff.0 00fe5a.ffffffff.0 00fe36.ffffffff.0 00208e.ffffffff.0 00207e.ffffffff.0 00ff09.ffffffff.0 00fe5a.ffffffff.0 00fe36.ffffffff.0 00208e.ffffffff.0 00207e.ffffffff.0
 Width: 353
 GlyphClass: 1
 Flags: W
@@ -1269,7 +1269,7 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 13
-AltUni2: 002217.ffffffff.0 002731.ffffffff.0 00fe61.ffffffff.0 00ff0a.ffffffff.0 002217.ffffffff.0 002731.ffffffff.0 00fe61.ffffffff.0 00ff0a.ffffffff.0
+AltUni2: 00ff0a.ffffffff.0 00fe61.ffffffff.0 002731.ffffffff.0 002217.ffffffff.0 00ff0a.ffffffff.0 00fe61.ffffffff.0 002731.ffffffff.0 002217.ffffffff.0
 Width: 503
 GlyphClass: 1
 Flags: W
@@ -1326,7 +1326,7 @@ EndChar
 
 StartChar: plus
 Encoding: 43 43 14
-AltUni2: 00207a.ffffffff.0 00208a.ffffffff.0 00fb29.ffffffff.0 00fe62.ffffffff.0 00ff0b.ffffffff.0 00207a.ffffffff.0 00208a.ffffffff.0 00fb29.ffffffff.0 00fe62.ffffffff.0 00ff0b.ffffffff.0
+AltUni2: 00ff0b.ffffffff.0 00fe62.ffffffff.0 00fb29.ffffffff.0 00208a.ffffffff.0 00207a.ffffffff.0 00ff0b.ffffffff.0 00fe62.ffffffff.0 00fb29.ffffffff.0 00208a.ffffffff.0 00207a.ffffffff.0
 Width: 638
 GlyphClass: 1
 Flags: W
@@ -1374,7 +1374,7 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 15
-AltUni2: 00066c.ffffffff.0 003001.ffffffff.0 00fe10.ffffffff.0 00fe11.ffffffff.0 00fe50.ffffffff.0 00ff0c.ffffffff.0 00066c.ffffffff.0 003001.ffffffff.0 00fe10.ffffffff.0 00fe11.ffffffff.0 00fe50.ffffffff.0 00ff0c.ffffffff.0
+AltUni2: 00ff0c.ffffffff.0 00fe50.ffffffff.0 00fe11.ffffffff.0 00fe10.ffffffff.0 003001.ffffffff.0 00066c.ffffffff.0 00ff0c.ffffffff.0 00fe50.ffffffff.0 00fe11.ffffffff.0 00fe10.ffffffff.0 003001.ffffffff.0 00066c.ffffffff.0
 Width: 230
 GlyphClass: 1
 Flags: W
@@ -1403,7 +1403,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 16
-AltUni2: 002010.ffffffff.0 002011.ffffffff.0 002012.ffffffff.0 002013.ffffffff.0 002014.ffffffff.0 002015.ffffffff.0 00207b.ffffffff.0 002212.ffffffff.0 002500.ffffffff.0 00fe32.ffffffff.0 00fe63.ffffffff.0 00ff0d.ffffffff.0 002010.ffffffff.0 002011.ffffffff.0 002012.ffffffff.0 002013.ffffffff.0 002014.ffffffff.0 002015.ffffffff.0 00207b.ffffffff.0 002212.ffffffff.0 002500.ffffffff.0 00fe32.ffffffff.0 00fe63.ffffffff.0 00ff0d.ffffffff.0
+AltUni2: 00ff0d.ffffffff.0 00fe63.ffffffff.0 00fe32.ffffffff.0 002500.ffffffff.0 002212.ffffffff.0 00207b.ffffffff.0 002015.ffffffff.0 002014.ffffffff.0 002013.ffffffff.0 002012.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0 00ff0d.ffffffff.0 00fe63.ffffffff.0 00fe32.ffffffff.0 002500.ffffffff.0 002212.ffffffff.0 00207b.ffffffff.0 002015.ffffffff.0 002014.ffffffff.0 002013.ffffffff.0 002012.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0
 Width: 444
 GlyphClass: 1
 Flags: W
@@ -1432,7 +1432,7 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 17
-AltUni2: 002024.ffffffff.0 00fe52.ffffffff.0 00ff0e.ffffffff.0 002024.ffffffff.0 00fe52.ffffffff.0 00ff0e.ffffffff.0
+AltUni2: 00ff0e.ffffffff.0 00fe52.ffffffff.0 002024.ffffffff.0 00ff0e.ffffffff.0 00fe52.ffffffff.0 002024.ffffffff.0
 Width: 198
 GlyphClass: 1
 Flags: W
@@ -1459,7 +1459,7 @@ EndChar
 
 StartChar: slash
 Encoding: 47 47 18
-AltUni2: 002215.ffffffff.0 00ff0f.ffffffff.0 002215.ffffffff.0 00ff0f.ffffffff.0
+AltUni2: 00ff0f.ffffffff.0 002215.ffffffff.0 00ff0f.ffffffff.0 002215.ffffffff.0
 Width: 678
 GlyphClass: 1
 Flags: W
@@ -1485,7 +1485,7 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 19
-AltUni2: 002070.ffffffff.0 002080.ffffffff.0 00ff10.ffffffff.0 002070.ffffffff.0 002080.ffffffff.0 00ff10.ffffffff.0
+AltUni2: 00ff10.ffffffff.0 002080.ffffffff.0 002070.ffffffff.0 00ff10.ffffffff.0 002080.ffffffff.0 002070.ffffffff.0
 Width: 531
 GlyphClass: 1
 Flags: W
@@ -1528,7 +1528,7 @@ EndChar
 
 StartChar: one
 Encoding: 49 49 20
-AltUni2: 0000b9.ffffffff.0 002081.ffffffff.0 00ff11.ffffffff.0 0000b9.ffffffff.0 002081.ffffffff.0 00ff11.ffffffff.0
+AltUni2: 00ff11.ffffffff.0 002081.ffffffff.0 0000b9.ffffffff.0 00ff11.ffffffff.0 002081.ffffffff.0 0000b9.ffffffff.0
 Width: 337
 GlyphClass: 1
 Flags: W
@@ -1575,7 +1575,7 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 21
-AltUni2: 0000b2.ffffffff.0 002082.ffffffff.0 00ff12.ffffffff.0 0000b2.ffffffff.0 002082.ffffffff.0 00ff12.ffffffff.0
+AltUni2: 00ff12.ffffffff.0 002082.ffffffff.0 0000b2.ffffffff.0 00ff12.ffffffff.0 002082.ffffffff.0 0000b2.ffffffff.0
 Width: 540
 GlyphClass: 1
 Flags: W
@@ -1662,7 +1662,7 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 22
-AltUni2: 0000b3.ffffffff.0 002083.ffffffff.0 00ff13.ffffffff.0 0000b3.ffffffff.0 002083.ffffffff.0 00ff13.ffffffff.0
+AltUni2: 00ff13.ffffffff.0 002083.ffffffff.0 0000b3.ffffffff.0 00ff13.ffffffff.0 002083.ffffffff.0 0000b3.ffffffff.0
 Width: 532
 GlyphClass: 1
 Flags: W
@@ -1717,7 +1717,7 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 23
-AltUni2: 002074.ffffffff.0 002084.ffffffff.0 00ff14.ffffffff.0 002074.ffffffff.0 002084.ffffffff.0 00ff14.ffffffff.0
+AltUni2: 00ff14.ffffffff.0 002084.ffffffff.0 002074.ffffffff.0 00ff14.ffffffff.0 002084.ffffffff.0 002074.ffffffff.0
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -1786,7 +1786,7 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 24
-AltUni2: 002075.ffffffff.0 002085.ffffffff.0 00ff15.ffffffff.0 002075.ffffffff.0 002085.ffffffff.0 00ff15.ffffffff.0
+AltUni2: 00ff15.ffffffff.0 002085.ffffffff.0 002075.ffffffff.0 00ff15.ffffffff.0 002085.ffffffff.0 002075.ffffffff.0
 Width: 509
 GlyphClass: 1
 Flags: W
@@ -1844,7 +1844,7 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 25
-AltUni2: 002076.ffffffff.0 002086.ffffffff.0 00ff16.ffffffff.0 002076.ffffffff.0 002086.ffffffff.0 00ff16.ffffffff.0
+AltUni2: 00ff16.ffffffff.0 002086.ffffffff.0 002076.ffffffff.0 00ff16.ffffffff.0 002086.ffffffff.0 002076.ffffffff.0
 Width: 502
 GlyphClass: 1
 Flags: W
@@ -1891,7 +1891,7 @@ EndChar
 
 StartChar: seven
 Encoding: 55 55 26
-AltUni2: 002077.ffffffff.0 002087.ffffffff.0 00ff17.ffffffff.0 002077.ffffffff.0 002087.ffffffff.0 00ff17.ffffffff.0
+AltUni2: 00ff17.ffffffff.0 002087.ffffffff.0 002077.ffffffff.0 00ff17.ffffffff.0 002087.ffffffff.0 002077.ffffffff.0
 Width: 539
 GlyphClass: 1
 Flags: W
@@ -1968,7 +1968,7 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 27
-AltUni2: 002078.ffffffff.0 002088.ffffffff.0 00ff18.ffffffff.0 002078.ffffffff.0 002088.ffffffff.0 00ff18.ffffffff.0
+AltUni2: 00ff18.ffffffff.0 002088.ffffffff.0 002078.ffffffff.0 00ff18.ffffffff.0 002088.ffffffff.0 002078.ffffffff.0
 Width: 497
 GlyphClass: 1
 Flags: W
@@ -2038,7 +2038,7 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 28
-AltUni2: 002079.ffffffff.0 002089.ffffffff.0 00ff19.ffffffff.0 002079.ffffffff.0 002089.ffffffff.0 00ff19.ffffffff.0
+AltUni2: 00ff19.ffffffff.0 002089.ffffffff.0 002079.ffffffff.0 00ff19.ffffffff.0 002089.ffffffff.0 002079.ffffffff.0
 Width: 504
 GlyphClass: 1
 Flags: W
@@ -2086,7 +2086,7 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 29
-AltUni2: 000589.ffffffff.0 002236.ffffffff.0 00fe13.ffffffff.0 00fe55.ffffffff.0 00ff1a.ffffffff.0 000589.ffffffff.0 002236.ffffffff.0 00fe13.ffffffff.0 00fe55.ffffffff.0 00ff1a.ffffffff.0
+AltUni2: 00ff1a.ffffffff.0 00fe55.ffffffff.0 00fe13.ffffffff.0 002236.ffffffff.0 000589.ffffffff.0 00ff1a.ffffffff.0 00fe55.ffffffff.0 00fe13.ffffffff.0 002236.ffffffff.0 000589.ffffffff.0
 Width: 230
 GlyphClass: 1
 Flags: W
@@ -2129,7 +2129,7 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 30
-AltUni2: 00037e.ffffffff.0 00fe14.ffffffff.0 00fe54.ffffffff.0 00ff1b.ffffffff.0 00037e.ffffffff.0 00fe14.ffffffff.0 00fe54.ffffffff.0 00ff1b.ffffffff.0
+AltUni2: 00ff1b.ffffffff.0 00fe54.ffffffff.0 00fe14.ffffffff.0 00037e.ffffffff.0 00ff1b.ffffffff.0 00fe54.ffffffff.0 00fe14.ffffffff.0 00037e.ffffffff.0
 Width: 212
 GlyphClass: 1
 Flags: W
@@ -2179,7 +2179,7 @@ EndChar
 
 StartChar: less
 Encoding: 60 60 31
-AltUni2: 002039.ffffffff.0 002329.ffffffff.0 003008.ffffffff.0 00fe64.ffffffff.0 00ff1c.ffffffff.0 002039.ffffffff.0 002329.ffffffff.0 003008.ffffffff.0 00fe64.ffffffff.0 00ff1c.ffffffff.0
+AltUni2: 00ff1c.ffffffff.0 00fe64.ffffffff.0 003008.ffffffff.0 002329.ffffffff.0 002039.ffffffff.0 00ff1c.ffffffff.0 00fe64.ffffffff.0 003008.ffffffff.0 002329.ffffffff.0 002039.ffffffff.0
 Width: 390
 GlyphClass: 1
 Flags: W
@@ -2223,7 +2223,7 @@ EndChar
 
 StartChar: equal
 Encoding: 61 61 32
-AltUni2: 00207c.ffffffff.0 00208c.ffffffff.0 00fe66.ffffffff.0 00ff1d.ffffffff.0 00207c.ffffffff.0 00208c.ffffffff.0 00fe66.ffffffff.0 00ff1d.ffffffff.0
+AltUni2: 00ff1d.ffffffff.0 00fe66.ffffffff.0 00208c.ffffffff.0 00207c.ffffffff.0 00ff1d.ffffffff.0 00fe66.ffffffff.0 00208c.ffffffff.0 00207c.ffffffff.0
 Width: 546
 GlyphClass: 1
 Flags: W
@@ -2264,7 +2264,7 @@ EndChar
 
 StartChar: greater
 Encoding: 62 62 33
-AltUni2: 00203a.ffffffff.0 00232a.ffffffff.0 003009.ffffffff.0 00fe65.ffffffff.0 00ff1e.ffffffff.0 00203a.ffffffff.0 00232a.ffffffff.0 003009.ffffffff.0 00fe65.ffffffff.0 00ff1e.ffffffff.0
+AltUni2: 00ff1e.ffffffff.0 00fe65.ffffffff.0 003009.ffffffff.0 00232a.ffffffff.0 00203a.ffffffff.0 00ff1e.ffffffff.0 00fe65.ffffffff.0 003009.ffffffff.0 00232a.ffffffff.0 00203a.ffffffff.0
 Width: 361
 GlyphClass: 1
 Flags: W
@@ -2311,7 +2311,7 @@ EndChar
 
 StartChar: question
 Encoding: 63 63 34
-AltUni2: 00fe16.ffffffff.0 00fe56.ffffffff.0 00ff1f.ffffffff.0 00fe16.ffffffff.0 00fe56.ffffffff.0 00ff1f.ffffffff.0
+AltUni2: 00ff1f.ffffffff.0 00fe56.ffffffff.0 00fe16.ffffffff.0 00ff1f.ffffffff.0 00fe56.ffffffff.0 00fe16.ffffffff.0
 Width: 464
 GlyphClass: 1
 Flags: W
@@ -2376,7 +2376,7 @@ EndChar
 
 StartChar: at
 Encoding: 64 64 35
-AltUni2: 00fe6b.ffffffff.0 00ff20.ffffffff.0 00fe6b.ffffffff.0 00ff20.ffffffff.0
+AltUni2: 00ff20.ffffffff.0 00fe6b.ffffffff.0 00ff20.ffffffff.0 00fe6b.ffffffff.0
 Width: 537
 GlyphClass: 1
 Flags: W
@@ -2450,7 +2450,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 36
-AltUni2: 000391.ffffffff.0 000410.ffffffff.0 0013aa.ffffffff.0 001d2c.ffffffff.0 00ff21.ffffffff.0 000391.ffffffff.0 000410.ffffffff.0 0013aa.ffffffff.0 001d2c.ffffffff.0 00ff21.ffffffff.0
+AltUni2: 00ff21.ffffffff.0 001d2c.ffffffff.0 0013aa.ffffffff.0 000410.ffffffff.0 000391.ffffffff.0 00ff21.ffffffff.0 001d2c.ffffffff.0 0013aa.ffffffff.0 000410.ffffffff.0 000391.ffffffff.0
 Width: 496
 GlyphClass: 1
 Flags: W
@@ -2506,7 +2506,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 37
-AltUni2: 000392.ffffffff.0 000412.ffffffff.0 0013f4.ffffffff.0 001d2e.ffffffff.0 00212c.ffffffff.0 00ff22.ffffffff.0 000392.ffffffff.0 000412.ffffffff.0 0013f4.ffffffff.0 001d2e.ffffffff.0 00212c.ffffffff.0 00ff22.ffffffff.0
+AltUni2: 00ff22.ffffffff.0 00212c.ffffffff.0 001d2e.ffffffff.0 0013f4.ffffffff.0 000412.ffffffff.0 000392.ffffffff.0 00ff22.ffffffff.0 00212c.ffffffff.0 001d2e.ffffffff.0 0013f4.ffffffff.0 000412.ffffffff.0 000392.ffffffff.0
 Width: 512
 GlyphClass: 1
 Flags: W
@@ -2579,7 +2579,7 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 38
-AltUni2: 000421.ffffffff.0 0013df.ffffffff.0 002102.ffffffff.0 00212d.ffffffff.0 00216d.ffffffff.0 00a7f2.ffffffff.0 00ff23.ffffffff.0 000421.ffffffff.0 0013df.ffffffff.0 002102.ffffffff.0 00212d.ffffffff.0 00216d.ffffffff.0 00a7f2.ffffffff.0 00ff23.ffffffff.0
+AltUni2: 00ff23.ffffffff.0 00a7f2.ffffffff.0 00216d.ffffffff.0 00212d.ffffffff.0 002102.ffffffff.0 0013df.ffffffff.0 000421.ffffffff.0 00ff23.ffffffff.0 00a7f2.ffffffff.0 00216d.ffffffff.0 00212d.ffffffff.0 002102.ffffffff.0 0013df.ffffffff.0 000421.ffffffff.0
 Width: 561
 GlyphClass: 1
 Flags: W
@@ -2638,7 +2638,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 39
-AltUni2: 0013a0.ffffffff.0 001d30.ffffffff.0 002145.ffffffff.0 00216e.ffffffff.0 00ff24.ffffffff.0 0013a0.ffffffff.0 001d30.ffffffff.0 002145.ffffffff.0 00216e.ffffffff.0 00ff24.ffffffff.0
+AltUni2: 00ff24.ffffffff.0 00216e.ffffffff.0 002145.ffffffff.0 001d30.ffffffff.0 0013a0.ffffffff.0 00ff24.ffffffff.0 00216e.ffffffff.0 002145.ffffffff.0 001d30.ffffffff.0 0013a0.ffffffff.0
 Width: 658
 GlyphClass: 1
 Flags: W
@@ -2699,7 +2699,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 40
-AltUni2: 000395.ffffffff.0 000415.ffffffff.0 0013ac.ffffffff.0 001d31.ffffffff.0 002130.ffffffff.0 00ff25.ffffffff.0 000395.ffffffff.0 000415.ffffffff.0 0013ac.ffffffff.0 001d31.ffffffff.0 002130.ffffffff.0 00ff25.ffffffff.0
+AltUni2: 00ff25.ffffffff.0 002130.ffffffff.0 001d31.ffffffff.0 0013ac.ffffffff.0 000415.ffffffff.0 000395.ffffffff.0 00ff25.ffffffff.0 002130.ffffffff.0 001d31.ffffffff.0 0013ac.ffffffff.0 000415.ffffffff.0 000395.ffffffff.0
 Width: 565
 GlyphClass: 1
 Flags: W
@@ -2759,7 +2759,7 @@ EndChar
 
 StartChar: F
 Encoding: 70 70 41
-AltUni2: 002131.ffffffff.0 00a7f3.ffffffff.0 00ff26.ffffffff.0 002131.ffffffff.0 00a7f3.ffffffff.0 00ff26.ffffffff.0
+AltUni2: 00ff26.ffffffff.0 00a7f3.ffffffff.0 002131.ffffffff.0 00ff26.ffffffff.0 00a7f3.ffffffff.0 002131.ffffffff.0
 Width: 591
 GlyphClass: 1
 Flags: W
@@ -2814,7 +2814,7 @@ EndChar
 
 StartChar: G
 Encoding: 71 71 42
-AltUni2: 0013c0.ffffffff.0 001d33.ffffffff.0 00ff27.ffffffff.0 0013c0.ffffffff.0 001d33.ffffffff.0 00ff27.ffffffff.0
+AltUni2: 00ff27.ffffffff.0 001d33.ffffffff.0 0013c0.ffffffff.0 00ff27.ffffffff.0 001d33.ffffffff.0 0013c0.ffffffff.0
 Width: 538
 GlyphClass: 1
 Flags: W
@@ -2870,7 +2870,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 43
-AltUni2: 000397.ffffffff.0 00041d.ffffffff.0 0013bb.ffffffff.0 001d34.ffffffff.0 00210b.ffffffff.0 00210c.ffffffff.0 00210d.ffffffff.0 00ff28.ffffffff.0 000397.ffffffff.0 00041d.ffffffff.0 0013bb.ffffffff.0 001d34.ffffffff.0 00210b.ffffffff.0 00210c.ffffffff.0 00210d.ffffffff.0 00ff28.ffffffff.0
+AltUni2: 00ff28.ffffffff.0 00210d.ffffffff.0 00210c.ffffffff.0 00210b.ffffffff.0 001d34.ffffffff.0 0013bb.ffffffff.0 00041d.ffffffff.0 000397.ffffffff.0 00ff28.ffffffff.0 00210d.ffffffff.0 00210c.ffffffff.0 00210b.ffffffff.0 001d34.ffffffff.0 0013bb.ffffffff.0 00041d.ffffffff.0 000397.ffffffff.0
 Width: 537
 GlyphClass: 1
 Flags: W
@@ -2929,7 +2929,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 44
-AltUni2: 000399.ffffffff.0 000406.ffffffff.0 0004c0.ffffffff.0 001d35.ffffffff.0 002110.ffffffff.0 002111.ffffffff.0 002160.ffffffff.0 00ff29.ffffffff.0 000399.ffffffff.0 000406.ffffffff.0 0004c0.ffffffff.0 001d35.ffffffff.0 002110.ffffffff.0 002111.ffffffff.0 002160.ffffffff.0 00ff29.ffffffff.0
+AltUni2: 00ff29.ffffffff.0 002160.ffffffff.0 002111.ffffffff.0 002110.ffffffff.0 001d35.ffffffff.0 0004c0.ffffffff.0 000406.ffffffff.0 000399.ffffffff.0 00ff29.ffffffff.0 002160.ffffffff.0 002111.ffffffff.0 002110.ffffffff.0 001d35.ffffffff.0 0004c0.ffffffff.0 000406.ffffffff.0 000399.ffffffff.0
 Width: 232
 GlyphClass: 1
 Flags: W
@@ -2959,7 +2959,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 45
-AltUni2: 000408.ffffffff.0 0013ab.ffffffff.0 001d36.ffffffff.0 00ff2a.ffffffff.0 000408.ffffffff.0 0013ab.ffffffff.0 001d36.ffffffff.0 00ff2a.ffffffff.0
+AltUni2: 00ff2a.ffffffff.0 001d36.ffffffff.0 0013ab.ffffffff.0 000408.ffffffff.0 00ff2a.ffffffff.0 001d36.ffffffff.0 0013ab.ffffffff.0 000408.ffffffff.0
 Width: 501
 GlyphClass: 1
 Flags: W
@@ -2997,7 +2997,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 46
-AltUni2: 00039a.ffffffff.0 00041a.ffffffff.0 0013e6.ffffffff.0 001d37.ffffffff.0 00212a.ffffffff.0 00ff2b.ffffffff.0 00039a.ffffffff.0 00041a.ffffffff.0 0013e6.ffffffff.0 001d37.ffffffff.0 00212a.ffffffff.0 00ff2b.ffffffff.0
+AltUni2: 00ff2b.ffffffff.0 00212a.ffffffff.0 001d37.ffffffff.0 0013e6.ffffffff.0 00041a.ffffffff.0 00039a.ffffffff.0 00ff2b.ffffffff.0 00212a.ffffffff.0 001d37.ffffffff.0 0013e6.ffffffff.0 00041a.ffffffff.0 00039a.ffffffff.0
 Width: 550
 GlyphClass: 1
 Flags: W
@@ -3061,7 +3061,7 @@ EndChar
 
 StartChar: L
 Encoding: 76 76 47
-AltUni2: 0013de.ffffffff.0 001d38.ffffffff.0 002112.ffffffff.0 00216c.ffffffff.0 00ff2c.ffffffff.0 0013de.ffffffff.0 001d38.ffffffff.0 002112.ffffffff.0 00216c.ffffffff.0 00ff2c.ffffffff.0
+AltUni2: 00ff2c.ffffffff.0 00216c.ffffffff.0 002112.ffffffff.0 001d38.ffffffff.0 0013de.ffffffff.0 00ff2c.ffffffff.0 00216c.ffffffff.0 002112.ffffffff.0 001d38.ffffffff.0 0013de.ffffffff.0
 Width: 525
 GlyphClass: 1
 Flags: W
@@ -3105,7 +3105,7 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 48
-AltUni2: 00039c.ffffffff.0 00041c.ffffffff.0 0013b7.ffffffff.0 001d39.ffffffff.0 002133.ffffffff.0 00216f.ffffffff.0 00ff2d.ffffffff.0 00039c.ffffffff.0 00041c.ffffffff.0 0013b7.ffffffff.0 001d39.ffffffff.0 002133.ffffffff.0 00216f.ffffffff.0 00ff2d.ffffffff.0
+AltUni2: 00ff2d.ffffffff.0 00216f.ffffffff.0 002133.ffffffff.0 001d39.ffffffff.0 0013b7.ffffffff.0 00041c.ffffffff.0 00039c.ffffffff.0 00ff2d.ffffffff.0 00216f.ffffffff.0 002133.ffffffff.0 001d39.ffffffff.0 0013b7.ffffffff.0 00041c.ffffffff.0 00039c.ffffffff.0
 Width: 742
 GlyphClass: 1
 Flags: W
@@ -3228,7 +3228,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 49
-AltUni2: 00039d.ffffffff.0 001d3a.ffffffff.0 002115.ffffffff.0 00ff2e.ffffffff.0 00039d.ffffffff.0 001d3a.ffffffff.0 002115.ffffffff.0 00ff2e.ffffffff.0
+AltUni2: 00ff2e.ffffffff.0 002115.ffffffff.0 001d3a.ffffffff.0 00039d.ffffffff.0 00ff2e.ffffffff.0 002115.ffffffff.0 001d3a.ffffffff.0 00039d.ffffffff.0
 Width: 595
 GlyphClass: 1
 Flags: W
@@ -3287,7 +3287,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 50
-AltUni2: 00039f.ffffffff.0 00041e.ffffffff.0 000555.ffffffff.0 001d3c.ffffffff.0 00ff2f.ffffffff.0 00039f.ffffffff.0 00041e.ffffffff.0 000555.ffffffff.0 001d3c.ffffffff.0 00ff2f.ffffffff.0
+AltUni2: 00ff2f.ffffffff.0 001d3c.ffffffff.0 000555.ffffffff.0 00041e.ffffffff.0 00039f.ffffffff.0 00ff2f.ffffffff.0 001d3c.ffffffff.0 000555.ffffffff.0 00041e.ffffffff.0 00039f.ffffffff.0
 Width: 730
 GlyphClass: 1
 Flags: W
@@ -3333,7 +3333,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 51
-AltUni2: 0003a1.ffffffff.0 000420.ffffffff.0 0013e2.ffffffff.0 001d3e.ffffffff.0 002119.ffffffff.0 00ff30.ffffffff.0 0003a1.ffffffff.0 000420.ffffffff.0 0013e2.ffffffff.0 001d3e.ffffffff.0 002119.ffffffff.0 00ff30.ffffffff.0
+AltUni2: 00ff30.ffffffff.0 002119.ffffffff.0 001d3e.ffffffff.0 0013e2.ffffffff.0 000420.ffffffff.0 0003a1.ffffffff.0 00ff30.ffffffff.0 002119.ffffffff.0 001d3e.ffffffff.0 0013e2.ffffffff.0 000420.ffffffff.0 0003a1.ffffffff.0
 Width: 563
 GlyphClass: 1
 Flags: W
@@ -3376,7 +3376,7 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 52
-AltUni2: 00211a.ffffffff.0 00a7f4.ffffffff.0 00ff31.ffffffff.0 00211a.ffffffff.0 00a7f4.ffffffff.0 00ff31.ffffffff.0
+AltUni2: 00ff31.ffffffff.0 00a7f4.ffffffff.0 00211a.ffffffff.0 00ff31.ffffffff.0 00a7f4.ffffffff.0 00211a.ffffffff.0
 Width: 694
 GlyphClass: 1
 Flags: W
@@ -3436,7 +3436,7 @@ EndChar
 
 StartChar: R
 Encoding: 82 82 53
-AltUni2: 0013a1.ffffffff.0 001d3f.ffffffff.0 00211b.ffffffff.0 00211c.ffffffff.0 00211d.ffffffff.0 00ff32.ffffffff.0 0013a1.ffffffff.0 001d3f.ffffffff.0 00211b.ffffffff.0 00211c.ffffffff.0 00211d.ffffffff.0 00ff32.ffffffff.0
+AltUni2: 00ff32.ffffffff.0 00211d.ffffffff.0 00211c.ffffffff.0 00211b.ffffffff.0 001d3f.ffffffff.0 0013a1.ffffffff.0 00ff32.ffffffff.0 00211d.ffffffff.0 00211c.ffffffff.0 00211b.ffffffff.0 001d3f.ffffffff.0 0013a1.ffffffff.0
 Width: 577
 GlyphClass: 1
 Flags: W
@@ -3511,7 +3511,7 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 54
-AltUni2: 000405.ffffffff.0 00054f.ffffffff.0 0013da.ffffffff.0 00ff33.ffffffff.0 000405.ffffffff.0 00054f.ffffffff.0 0013da.ffffffff.0 00ff33.ffffffff.0
+AltUni2: 00ff33.ffffffff.0 0013da.ffffffff.0 00054f.ffffffff.0 000405.ffffffff.0 00ff33.ffffffff.0 0013da.ffffffff.0 00054f.ffffffff.0 000405.ffffffff.0
 Width: 514
 GlyphClass: 1
 Flags: W
@@ -3574,7 +3574,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 55
-AltUni2: 0003a4.ffffffff.0 000422.ffffffff.0 0013a2.ffffffff.0 001d40.ffffffff.0 00ff34.ffffffff.0 0003a4.ffffffff.0 000422.ffffffff.0 0013a2.ffffffff.0 001d40.ffffffff.0 00ff34.ffffffff.0
+AltUni2: 00ff34.ffffffff.0 001d40.ffffffff.0 0013a2.ffffffff.0 000422.ffffffff.0 0003a4.ffffffff.0 00ff34.ffffffff.0 001d40.ffffffff.0 0013a2.ffffffff.0 000422.ffffffff.0 0003a4.ffffffff.0
 Width: 668
 GlyphClass: 1
 Flags: W
@@ -3632,7 +3632,7 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 56
-AltUni2: 001d41.ffffffff.0 00ff35.ffffffff.0 001d41.ffffffff.0 00ff35.ffffffff.0
+AltUni2: 00ff35.ffffffff.0 001d41.ffffffff.0 00ff35.ffffffff.0 001d41.ffffffff.0
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -3698,7 +3698,7 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 57
-AltUni2: 0013d9.ffffffff.0 002164.ffffffff.0 002c7d.ffffffff.0 00ff36.ffffffff.0 0013d9.ffffffff.0 002164.ffffffff.0 002c7d.ffffffff.0 00ff36.ffffffff.0
+AltUni2: 00ff36.ffffffff.0 002c7d.ffffffff.0 002164.ffffffff.0 0013d9.ffffffff.0 00ff36.ffffffff.0 002c7d.ffffffff.0 002164.ffffffff.0 0013d9.ffffffff.0
 Width: 489
 GlyphClass: 1
 Flags: W
@@ -3744,7 +3744,7 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 58
-AltUni2: 0013b3.ffffffff.0 001d42.ffffffff.0 00ff37.ffffffff.0 0013b3.ffffffff.0 001d42.ffffffff.0 00ff37.ffffffff.0
+AltUni2: 00ff37.ffffffff.0 001d42.ffffffff.0 0013b3.ffffffff.0 00ff37.ffffffff.0 001d42.ffffffff.0 0013b3.ffffffff.0
 Width: 792
 GlyphClass: 1
 Flags: W
@@ -3833,7 +3833,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 59
-AltUni2: 0003a7.ffffffff.0 000425.ffffffff.0 002169.ffffffff.0 00ff38.ffffffff.0 0003a7.ffffffff.0 000425.ffffffff.0 002169.ffffffff.0 00ff38.ffffffff.0
+AltUni2: 00ff38.ffffffff.0 002169.ffffffff.0 000425.ffffffff.0 0003a7.ffffffff.0 00ff38.ffffffff.0 002169.ffffffff.0 000425.ffffffff.0 0003a7.ffffffff.0
 Width: 582
 GlyphClass: 1
 Flags: W
@@ -3886,7 +3886,7 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 60
-AltUni2: 0003a5.ffffffff.0 0003d2.ffffffff.0 0004ae.ffffffff.0 00ff39.ffffffff.0 0003a5.ffffffff.0 0003d2.ffffffff.0 0004ae.ffffffff.0 00ff39.ffffffff.0
+AltUni2: 00ff39.ffffffff.0 0004ae.ffffffff.0 0003d2.ffffffff.0 0003a5.ffffffff.0 00ff39.ffffffff.0 0004ae.ffffffff.0 0003d2.ffffffff.0 0003a5.ffffffff.0
 Width: 601
 GlyphClass: 1
 Flags: W
@@ -3939,7 +3939,7 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 61
-AltUni2: 000396.ffffffff.0 0013c3.ffffffff.0 002124.ffffffff.0 002128.ffffffff.0 00ff3a.ffffffff.0 000396.ffffffff.0 0013c3.ffffffff.0 002124.ffffffff.0 002128.ffffffff.0 00ff3a.ffffffff.0
+AltUni2: 00ff3a.ffffffff.0 002128.ffffffff.0 002124.ffffffff.0 0013c3.ffffffff.0 000396.ffffffff.0 00ff3a.ffffffff.0 002128.ffffffff.0 002124.ffffffff.0 0013c3.ffffffff.0 000396.ffffffff.0
 Width: 587
 GlyphClass: 1
 Flags: W
@@ -4030,7 +4030,7 @@ EndChar
 
 StartChar: bracketleft
 Encoding: 91 91 62
-AltUni2: 00fe47.ffffffff.0 00ff3b.ffffffff.0 00fe47.ffffffff.0 00ff3b.ffffffff.0
+AltUni2: 00ff3b.ffffffff.0 00fe47.ffffffff.0 00ff3b.ffffffff.0 00fe47.ffffffff.0
 Width: 260
 GlyphClass: 1
 Flags: W
@@ -4092,7 +4092,7 @@ EndChar
 
 StartChar: backslash
 Encoding: 92 92 63
-AltUni2: 002216.ffffffff.0 00fe68.ffffffff.0 00ff3c.ffffffff.0 002216.ffffffff.0 00fe68.ffffffff.0 00ff3c.ffffffff.0
+AltUni2: 00ff3c.ffffffff.0 00fe68.ffffffff.0 002216.ffffffff.0 00ff3c.ffffffff.0 00fe68.ffffffff.0 002216.ffffffff.0
 Width: 397
 GlyphClass: 1
 Flags: W
@@ -4134,7 +4134,7 @@ EndChar
 
 StartChar: bracketright
 Encoding: 93 93 64
-AltUni2: 00fe48.ffffffff.0 00ff3d.ffffffff.0 00fe48.ffffffff.0 00ff3d.ffffffff.0
+AltUni2: 00ff3d.ffffffff.0 00fe48.ffffffff.0 00ff3d.ffffffff.0 00fe48.ffffffff.0
 Width: 229
 GlyphClass: 1
 Flags: W
@@ -4193,7 +4193,7 @@ EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 65
-AltUni2: 0002c4.ffffffff.0 0002c6.ffffffff.0 000302.ffffffff.0 002303.ffffffff.0 00ff3e.ffffffff.0 0002c4.ffffffff.0 0002c6.ffffffff.0 000302.ffffffff.0 002303.ffffffff.0 00ff3e.ffffffff.0
+AltUni2: 00ff3e.ffffffff.0 002303.ffffffff.0 000302.ffffffff.0 0002c6.ffffffff.0 0002c4.ffffffff.0 00ff3e.ffffffff.0 002303.ffffffff.0 000302.ffffffff.0 0002c6.ffffffff.0 0002c4.ffffffff.0
 Width: 345
 GlyphClass: 1
 Flags: W
@@ -4253,7 +4253,7 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 66
-AltUni2: 00fe33.ffffffff.0 00fe34.ffffffff.0 00fe4d.ffffffff.0 00fe4e.ffffffff.0 00fe4f.ffffffff.0 00ff3f.ffffffff.0 00fe33.ffffffff.0 00fe34.ffffffff.0 00fe4d.ffffffff.0 00fe4e.ffffffff.0 00fe4f.ffffffff.0 00ff3f.ffffffff.0
+AltUni2: 00ff3f.ffffffff.0 00fe4f.ffffffff.0 00fe4e.ffffffff.0 00fe4d.ffffffff.0 00fe34.ffffffff.0 00fe33.ffffffff.0 00ff3f.ffffffff.0 00fe4f.ffffffff.0 00fe4e.ffffffff.0 00fe4d.ffffffff.0 00fe34.ffffffff.0 00fe33.ffffffff.0
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -4283,7 +4283,7 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 67
-AltUni2: 00060c.ffffffff.0 001fef.ffffffff.0 002018.ffffffff.0 002035.ffffffff.0 00ff40.ffffffff.0 00060c.ffffffff.0 001fef.ffffffff.0 002018.ffffffff.0 002035.ffffffff.0 00ff40.ffffffff.0
+AltUni2: 00ff40.ffffffff.0 002035.ffffffff.0 002018.ffffffff.0 001fef.ffffffff.0 00060c.ffffffff.0 00ff40.ffffffff.0 002035.ffffffff.0 002018.ffffffff.0 001fef.ffffffff.0 00060c.ffffffff.0
 Width: 261
 GlyphClass: 1
 Flags: W
@@ -4314,7 +4314,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 68
-AltUni2: 0000aa.ffffffff.0 000430.ffffffff.0 001d43.ffffffff.0 002090.ffffffff.0 00ff41.ffffffff.0 0000aa.ffffffff.0 000430.ffffffff.0 001d43.ffffffff.0 002090.ffffffff.0 00ff41.ffffffff.0
+AltUni2: 00ff41.ffffffff.0 002090.ffffffff.0 001d43.ffffffff.0 000430.ffffffff.0 0000aa.ffffffff.0 00ff41.ffffffff.0 002090.ffffffff.0 001d43.ffffffff.0 000430.ffffffff.0 0000aa.ffffffff.0
 Width: 481
 GlyphClass: 1
 Flags: W
@@ -4368,7 +4368,7 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 69
-AltUni2: 001d47.ffffffff.0 00ff42.ffffffff.0 001d47.ffffffff.0 00ff42.ffffffff.0
+AltUni2: 00ff42.ffffffff.0 001d47.ffffffff.0 00ff42.ffffffff.0 001d47.ffffffff.0
 Width: 438
 GlyphClass: 1
 Flags: W
@@ -4422,7 +4422,7 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 70
-AltUni2: 000441.ffffffff.0 001d9c.ffffffff.0 00217d.ffffffff.0 00ff43.ffffffff.0 000441.ffffffff.0 001d9c.ffffffff.0 00217d.ffffffff.0 00ff43.ffffffff.0
+AltUni2: 00ff43.ffffffff.0 00217d.ffffffff.0 001d9c.ffffffff.0 000441.ffffffff.0 00ff43.ffffffff.0 00217d.ffffffff.0 001d9c.ffffffff.0 000441.ffffffff.0
 Width: 439
 GlyphClass: 1
 Flags: W
@@ -4457,7 +4457,7 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 71
-AltUni2: 001d48.ffffffff.0 002146.ffffffff.0 00217e.ffffffff.0 00ff44.ffffffff.0 001d48.ffffffff.0 002146.ffffffff.0 00217e.ffffffff.0 00ff44.ffffffff.0
+AltUni2: 00ff44.ffffffff.0 00217e.ffffffff.0 002146.ffffffff.0 001d48.ffffffff.0 00ff44.ffffffff.0 00217e.ffffffff.0 002146.ffffffff.0 001d48.ffffffff.0
 Width: 515
 GlyphClass: 1
 Flags: W
@@ -4514,7 +4514,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 72
-AltUni2: 000435.ffffffff.0 001d49.ffffffff.0 002091.ffffffff.0 00212f.ffffffff.0 002147.ffffffff.0 00ff45.ffffffff.0 000435.ffffffff.0 001d49.ffffffff.0 002091.ffffffff.0 00212f.ffffffff.0 002147.ffffffff.0 00ff45.ffffffff.0
+AltUni2: 00ff45.ffffffff.0 002147.ffffffff.0 00212f.ffffffff.0 002091.ffffffff.0 001d49.ffffffff.0 000435.ffffffff.0 00ff45.ffffffff.0 002147.ffffffff.0 00212f.ffffffff.0 002091.ffffffff.0 001d49.ffffffff.0 000435.ffffffff.0
 Width: 373
 GlyphClass: 1
 Flags: W
@@ -4557,7 +4557,7 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 73
-AltUni2: 000584.ffffffff.0 001da0.ffffffff.0 00ff46.ffffffff.0 000584.ffffffff.0 001da0.ffffffff.0 00ff46.ffffffff.0
+AltUni2: 00ff46.ffffffff.0 001da0.ffffffff.0 000584.ffffffff.0 00ff46.ffffffff.0 001da0.ffffffff.0 000584.ffffffff.0
 Width: 285
 GlyphClass: 1
 Flags: W
@@ -4609,7 +4609,7 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 74
-AltUni2: 001d4d.ffffffff.0 00210a.ffffffff.0 00ff47.ffffffff.0 001d4d.ffffffff.0 00210a.ffffffff.0 00ff47.ffffffff.0
+AltUni2: 00ff47.ffffffff.0 00210a.ffffffff.0 001d4d.ffffffff.0 00ff47.ffffffff.0 00210a.ffffffff.0 001d4d.ffffffff.0
 Width: 421
 GlyphClass: 1
 Flags: W
@@ -4680,7 +4680,7 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 75
-AltUni2: 0002b0.ffffffff.0 000570.ffffffff.0 0013c2.ffffffff.0 002095.ffffffff.0 00210e.ffffffff.0 00ff48.ffffffff.0 0002b0.ffffffff.0 000570.ffffffff.0 0013c2.ffffffff.0 002095.ffffffff.0 00210e.ffffffff.0 00ff48.ffffffff.0
+AltUni2: 00ff48.ffffffff.0 00210e.ffffffff.0 002095.ffffffff.0 0013c2.ffffffff.0 000570.ffffffff.0 0002b0.ffffffff.0 00ff48.ffffffff.0 00210e.ffffffff.0 002095.ffffffff.0 0013c2.ffffffff.0 000570.ffffffff.0 0002b0.ffffffff.0
 Width: 345
 GlyphClass: 1
 Flags: W
@@ -4739,7 +4739,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 76
-AltUni2: 000456.ffffffff.0 001d62.ffffffff.0 002071.ffffffff.0 002139.ffffffff.0 002148.ffffffff.0 002170.ffffffff.0 00ff49.ffffffff.0 000456.ffffffff.0 001d62.ffffffff.0 002071.ffffffff.0 002139.ffffffff.0 002148.ffffffff.0 002170.ffffffff.0 00ff49.ffffffff.0
+AltUni2: 00ff49.ffffffff.0 002170.ffffffff.0 002148.ffffffff.0 002139.ffffffff.0 002071.ffffffff.0 001d62.ffffffff.0 000456.ffffffff.0 00ff49.ffffffff.0 002170.ffffffff.0 002148.ffffffff.0 002139.ffffffff.0 002071.ffffffff.0 001d62.ffffffff.0 000456.ffffffff.0
 Width: 220
 GlyphClass: 1
 Flags: W
@@ -4751,7 +4751,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 77
-AltUni2: 0002b2.ffffffff.0 000458.ffffffff.0 002149.ffffffff.0 002c7c.ffffffff.0 00ff4a.ffffffff.0 0002b2.ffffffff.0 000458.ffffffff.0 002149.ffffffff.0 002c7c.ffffffff.0 00ff4a.ffffffff.0
+AltUni2: 00ff4a.ffffffff.0 002c7c.ffffffff.0 002149.ffffffff.0 000458.ffffffff.0 0002b2.ffffffff.0 00ff4a.ffffffff.0 002c7c.ffffffff.0 002149.ffffffff.0 000458.ffffffff.0 0002b2.ffffffff.0
 Width: 190
 GlyphClass: 1
 Flags: W
@@ -4763,7 +4763,7 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 78
-AltUni2: 001d4f.ffffffff.0 002096.ffffffff.0 00ff4b.ffffffff.0 001d4f.ffffffff.0 002096.ffffffff.0 00ff4b.ffffffff.0
+AltUni2: 00ff4b.ffffffff.0 002096.ffffffff.0 001d4f.ffffffff.0 00ff4b.ffffffff.0 002096.ffffffff.0 001d4f.ffffffff.0
 Width: 424
 GlyphClass: 1
 Flags: W
@@ -4835,7 +4835,7 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 79
-AltUni2: 0002e1.ffffffff.0 002097.ffffffff.0 002113.ffffffff.0 00217c.ffffffff.0 00ff4c.ffffffff.0 0002e1.ffffffff.0 002097.ffffffff.0 002113.ffffffff.0 00217c.ffffffff.0 00ff4c.ffffffff.0
+AltUni2: 00ff4c.ffffffff.0 00217c.ffffffff.0 002113.ffffffff.0 002097.ffffffff.0 0002e1.ffffffff.0 00ff4c.ffffffff.0 00217c.ffffffff.0 002113.ffffffff.0 002097.ffffffff.0 0002e1.ffffffff.0
 Width: 231
 GlyphClass: 1
 Flags: W
@@ -4870,7 +4870,7 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 80
-AltUni2: 001d50.ffffffff.0 002098.ffffffff.0 00217f.ffffffff.0 00ff4d.ffffffff.0 001d50.ffffffff.0 002098.ffffffff.0 00217f.ffffffff.0 00ff4d.ffffffff.0
+AltUni2: 00ff4d.ffffffff.0 00217f.ffffffff.0 002098.ffffffff.0 001d50.ffffffff.0 00ff4d.ffffffff.0 00217f.ffffffff.0 002098.ffffffff.0 001d50.ffffffff.0
 Width: 504
 GlyphClass: 1
 Flags: W
@@ -4963,7 +4963,7 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 81
-AltUni2: 000578.ffffffff.0 00207f.ffffffff.0 002099.ffffffff.0 00ff4e.ffffffff.0 000578.ffffffff.0 00207f.ffffffff.0 002099.ffffffff.0 00ff4e.ffffffff.0
+AltUni2: 00ff4e.ffffffff.0 002099.ffffffff.0 00207f.ffffffff.0 000578.ffffffff.0 00ff4e.ffffffff.0 002099.ffffffff.0 00207f.ffffffff.0 000578.ffffffff.0
 Width: 412
 GlyphClass: 1
 Flags: W
@@ -5026,7 +5026,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 82
-AltUni2: 0000ba.ffffffff.0 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0 001d52.ffffffff.0 002092.ffffffff.0 002134.ffffffff.0 00ff4f.ffffffff.0 0000ba.ffffffff.0 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0 001d52.ffffffff.0 002092.ffffffff.0 002134.ffffffff.0 00ff4f.ffffffff.0
+AltUni2: 00ff4f.ffffffff.0 002134.ffffffff.0 002092.ffffffff.0 001d52.ffffffff.0 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0 0000ba.ffffffff.0 00ff4f.ffffffff.0 002134.ffffffff.0 002092.ffffffff.0 001d52.ffffffff.0 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0 0000ba.ffffffff.0
 Width: 474
 GlyphClass: 1
 Flags: W
@@ -5069,7 +5069,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 83
-AltUni2: 0003c1.ffffffff.0 0003f1.ffffffff.0 000440.ffffffff.0 001d56.ffffffff.0 00209a.ffffffff.0 00ff50.ffffffff.0 0003c1.ffffffff.0 0003f1.ffffffff.0 000440.ffffffff.0 001d56.ffffffff.0 00209a.ffffffff.0 00ff50.ffffffff.0
+AltUni2: 00ff50.ffffffff.0 00209a.ffffffff.0 001d56.ffffffff.0 000440.ffffffff.0 0003f1.ffffffff.0 0003c1.ffffffff.0 00ff50.ffffffff.0 00209a.ffffffff.0 001d56.ffffffff.0 000440.ffffffff.0 0003f1.ffffffff.0 0003c1.ffffffff.0
 Width: 459
 GlyphClass: 1
 Flags: W
@@ -5191,7 +5191,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 85
-AltUni2: 0002b3.ffffffff.0 001d63.ffffffff.0 00ff52.ffffffff.0 0002b3.ffffffff.0 001d63.ffffffff.0 00ff52.ffffffff.0
+AltUni2: 00ff52.ffffffff.0 001d63.ffffffff.0 0002b3.ffffffff.0 00ff52.ffffffff.0 001d63.ffffffff.0 0002b3.ffffffff.0
 Width: 421
 GlyphClass: 1
 Flags: W
@@ -5239,7 +5239,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 86
-AltUni2: 00017f.ffffffff.0 0002e2.ffffffff.0 000455.ffffffff.0 00209b.ffffffff.0 00ff53.ffffffff.0 00017f.ffffffff.0 0002e2.ffffffff.0 000455.ffffffff.0 00209b.ffffffff.0 00ff53.ffffffff.0
+AltUni2: 00ff53.ffffffff.0 00209b.ffffffff.0 000455.ffffffff.0 0002e2.ffffffff.0 00017f.ffffffff.0 00ff53.ffffffff.0 00209b.ffffffff.0 000455.ffffffff.0 0002e2.ffffffff.0 00017f.ffffffff.0
 Width: 390
 GlyphClass: 1
 Flags: W
@@ -5298,7 +5298,7 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 87
-AltUni2: 001d57.ffffffff.0 00209c.ffffffff.0 00ff54.ffffffff.0 001d57.ffffffff.0 00209c.ffffffff.0 00ff54.ffffffff.0
+AltUni2: 00ff54.ffffffff.0 00209c.ffffffff.0 001d57.ffffffff.0 00ff54.ffffffff.0 00209c.ffffffff.0 001d57.ffffffff.0
 Width: 296
 GlyphClass: 1
 Flags: W
@@ -5357,7 +5357,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 88
-AltUni2: 00057d.ffffffff.0 001d58.ffffffff.0 001d64.ffffffff.0 00ff55.ffffffff.0 00057d.ffffffff.0 001d58.ffffffff.0 001d64.ffffffff.0 00ff55.ffffffff.0
+AltUni2: 00ff55.ffffffff.0 001d64.ffffffff.0 001d58.ffffffff.0 00057d.ffffffff.0 00ff55.ffffffff.0 001d64.ffffffff.0 001d58.ffffffff.0 00057d.ffffffff.0
 Width: 444
 GlyphClass: 1
 Flags: W
@@ -5421,7 +5421,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 89
-AltUni2: 001d5b.ffffffff.0 001d65.ffffffff.0 002174.ffffffff.0 00ff56.ffffffff.0 001d5b.ffffffff.0 001d65.ffffffff.0 002174.ffffffff.0 00ff56.ffffffff.0
+AltUni2: 00ff56.ffffffff.0 002174.ffffffff.0 001d65.ffffffff.0 001d5b.ffffffff.0 00ff56.ffffffff.0 002174.ffffffff.0 001d65.ffffffff.0 001d5b.ffffffff.0
 Width: 436
 GlyphClass: 1
 Flags: W
@@ -5470,7 +5470,7 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 90
-AltUni2: 0002b7.ffffffff.0 00ff57.ffffffff.0 0002b7.ffffffff.0 00ff57.ffffffff.0
+AltUni2: 00ff57.ffffffff.0 0002b7.ffffffff.0 00ff57.ffffffff.0 0002b7.ffffffff.0
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -5544,7 +5544,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 91
-AltUni2: 0002e3.ffffffff.0 0003c7.ffffffff.0 000445.ffffffff.0 001d61.ffffffff.0 002093.ffffffff.0 002179.ffffffff.0 00ff58.ffffffff.0 0002e3.ffffffff.0 0003c7.ffffffff.0 000445.ffffffff.0 001d61.ffffffff.0 002093.ffffffff.0 002179.ffffffff.0 00ff58.ffffffff.0
+AltUni2: 00ff58.ffffffff.0 002179.ffffffff.0 002093.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0 0003c7.ffffffff.0 0002e3.ffffffff.0 00ff58.ffffffff.0 002179.ffffffff.0 002093.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0 0003c7.ffffffff.0 0002e3.ffffffff.0
 Width: 436
 GlyphClass: 1
 Flags: W
@@ -5602,7 +5602,7 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 92
-AltUni2: 0002b8.ffffffff.0 000443.ffffffff.0 00ff59.ffffffff.0 0002b8.ffffffff.0 000443.ffffffff.0 00ff59.ffffffff.0
+AltUni2: 00ff59.ffffffff.0 000443.ffffffff.0 0002b8.ffffffff.0 00ff59.ffffffff.0 000443.ffffffff.0 0002b8.ffffffff.0
 Width: 403
 GlyphClass: 1
 Flags: W
@@ -5663,7 +5663,7 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 93
-AltUni2: 001dbb.ffffffff.0 00ff5a.ffffffff.0 001dbb.ffffffff.0 00ff5a.ffffffff.0
+AltUni2: 00ff5a.ffffffff.0 001dbb.ffffffff.0 00ff5a.ffffffff.0 001dbb.ffffffff.0
 Width: 472
 GlyphClass: 1
 Flags: W
@@ -5736,7 +5736,7 @@ EndChar
 
 StartChar: braceleft
 Encoding: 123 123 94
-AltUni2: 00fe37.ffffffff.0 00fe5b.ffffffff.0 00ff5b.ffffffff.0 00fe37.ffffffff.0 00fe5b.ffffffff.0 00ff5b.ffffffff.0
+AltUni2: 00ff5b.ffffffff.0 00fe5b.ffffffff.0 00fe37.ffffffff.0 00ff5b.ffffffff.0 00fe5b.ffffffff.0 00fe37.ffffffff.0
 Width: 357
 GlyphClass: 1
 Flags: W
@@ -5802,7 +5802,7 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 95
-AltUni2: 0001c0.ffffffff.0 002223.ffffffff.0 002502.ffffffff.0 002758.ffffffff.0 00ff5c.ffffffff.0 00ffe8.ffffffff.0 0001c0.ffffffff.0 002223.ffffffff.0 002502.ffffffff.0 002758.ffffffff.0 00ff5c.ffffffff.0 00ffe8.ffffffff.0
+AltUni2: 00ffe8.ffffffff.0 00ff5c.ffffffff.0 002758.ffffffff.0 002502.ffffffff.0 002223.ffffffff.0 0001c0.ffffffff.0 00ffe8.ffffffff.0 00ff5c.ffffffff.0 002758.ffffffff.0 002502.ffffffff.0 002223.ffffffff.0 0001c0.ffffffff.0
 Width: 173
 GlyphClass: 1
 Flags: W
@@ -5858,7 +5858,7 @@ EndChar
 
 StartChar: braceright
 Encoding: 125 125 96
-AltUni2: 00fe38.ffffffff.0 00fe5c.ffffffff.0 00ff5d.ffffffff.0 00fe38.ffffffff.0 00fe5c.ffffffff.0 00ff5d.ffffffff.0
+AltUni2: 00ff5d.ffffffff.0 00fe5c.ffffffff.0 00fe38.ffffffff.0 00ff5d.ffffffff.0 00fe5c.ffffffff.0 00fe38.ffffffff.0
 Width: 381
 GlyphClass: 1
 Flags: W
@@ -5920,7 +5920,7 @@ EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 97
-AltUni2: 000303.ffffffff.0 00223c.ffffffff.0 00ff5e.ffffffff.0 000303.ffffffff.0 00223c.ffffffff.0 00ff5e.ffffffff.0
+AltUni2: 00ff5e.ffffffff.0 00223c.ffffffff.0 000303.ffffffff.0 00ff5e.ffffffff.0 00223c.ffffffff.0 000303.ffffffff.0
 Width: 406
 GlyphClass: 1
 Flags: W
@@ -6500,7 +6500,7 @@ EndChar
 
 StartChar: guillemotleft
 Encoding: 171 171 107
-AltUni2: 00226a.ffffffff.0 00300a.ffffffff.0 00fe3d.ffffffff.0 00226a.ffffffff.0 00300a.ffffffff.0 00fe3d.ffffffff.0
+AltUni2: 00fe3d.ffffffff.0 00300a.ffffffff.0 00226a.ffffffff.0 00fe3d.ffffffff.0 00300a.ffffffff.0 00226a.ffffffff.0
 Width: 488
 GlyphClass: 1
 Flags: W
@@ -6707,7 +6707,7 @@ EndChar
 
 StartChar: degree
 Encoding: 176 176 111
-AltUni2: 00030a.ffffffff.0 002218.ffffffff.0 0025e6.ffffffff.0 00030a.ffffffff.0 002218.ffffffff.0 0025e6.ffffffff.0
+AltUni2: 0025e6.ffffffff.0 002218.ffffffff.0 00030a.ffffffff.0 0025e6.ffffffff.0 002218.ffffffff.0 00030a.ffffffff.0
 Width: 342
 GlyphClass: 1
 Flags: W
@@ -6816,7 +6816,7 @@ EndChar
 
 StartChar: acute
 Encoding: 180 180 113
-AltUni2: 000301.ffffffff.0 000341.ffffffff.0 001ffd.ffffffff.0 000301.ffffffff.0 000341.ffffffff.0 001ffd.ffffffff.0
+AltUni2: 001ffd.ffffffff.0 000341.ffffffff.0 000301.ffffffff.0 001ffd.ffffffff.0 000341.ffffffff.0 000301.ffffffff.0
 Width: 309
 GlyphClass: 1
 Flags: W
@@ -6971,7 +6971,7 @@ EndChar
 
 StartChar: periodcentered
 Encoding: 183 183 116
-AltUni2: 000387.ffffffff.0 0006d4.ffffffff.0 002219.ffffffff.0 0022c5.ffffffff.0 000387.ffffffff.0 0006d4.ffffffff.0 002219.ffffffff.0 0022c5.ffffffff.0
+AltUni2: 0022c5.ffffffff.0 002219.ffffffff.0 0006d4.ffffffff.0 000387.ffffffff.0 0022c5.ffffffff.0 002219.ffffffff.0 0006d4.ffffffff.0 000387.ffffffff.0
 Width: 264
 GlyphClass: 1
 Flags: W
@@ -7046,7 +7046,7 @@ EndChar
 
 StartChar: guillemotright
 Encoding: 187 187 118
-AltUni2: 00226b.ffffffff.0 00300b.ffffffff.0 00fe3e.ffffffff.0 00226b.ffffffff.0 00300b.ffffffff.0 00fe3e.ffffffff.0
+AltUni2: 00fe3e.ffffffff.0 00300b.ffffffff.0 00226b.ffffffff.0 00fe3e.ffffffff.0 00300b.ffffffff.0 00226b.ffffffff.0
 Width: 470
 GlyphClass: 1
 Flags: W
@@ -10853,7 +10853,7 @@ EndChar
 
 StartChar: uni1160
 Encoding: 4448 4448 387
-AltUni2: 003164.ffffffff.0 00ffa0.ffffffff.0 003164.ffffffff.0 00ffa0.ffffffff.0
+AltUni2: 00ffa0.ffffffff.0 003164.ffffffff.0 00ffa0.ffffffff.0 003164.ffffffff.0
 Width: 0
 GlyphClass: 1
 Flags: W
