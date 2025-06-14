@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: IM_FELL_Extended
-FullName: IM_FELL_Extended
-FamilyName: IM_FELL_Extended
+FullName: IM FELL Extended
+FamilyName: IM FELL Extended
 Weight: Italic
 Copyright: (c) 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL English Italic
 Version: 3.00
@@ -15,14 +15,14 @@ sfntRevision: 0x00030000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 796 -163880829 6951766]
+XUID: [1021 796 -163880829 9257623]
 StyleMap: 0x0001
 FSType: 0
 OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1150054206
-ModificationTime: 1749722408
+ModificationTime: 1749724067
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -104,7 +104,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7648 32 8
+WinInfo: 64 32 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65560 1422
