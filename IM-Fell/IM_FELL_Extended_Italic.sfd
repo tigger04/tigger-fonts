@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: IM_FELL_Extended_Italic
+FontName: IM_FELL_Extended-Italic
 FullName: IM FELL Extended
 FamilyName: IM_FELL_Extended
 Weight: Italic
@@ -15,14 +15,14 @@ sfntRevision: 0x00030000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 796 -163880829 14166495]
+XUID: [1021 796 -163880829 15292317]
 StyleMap: 0x0001
 FSType: 0
 OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1150054206
-ModificationTime: 1751584558
+ModificationTime: 1751584792
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -114,7 +114,7 @@ ShortTable: maxp 16
   6
   3
 EndShort
-LangName: 1033 "+AKkA 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL English Italic" "" "" "IM_FELL_Extended_Italic" "" "3.00" "" "" "Igino Marini" "Igino Marini" "Fell Types - English size - Roman Small Caps. Typeface from the  types bequeathed in 1686 to the University of Oxford by John Fell. Originally cut by  by Robert Granjon. To be printed at 13.5 points to match the original size. Autospaced and autokerned using iKern+AKkA developed by Igino Marini. " "www.iginomarini.com" "www.iginomarini.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
+LangName: 1033 "+AKkA 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL English Italic" "" "" "" "" "3.00" "" "" "Igino Marini" "Igino Marini" "Fell Types - English size - Roman Small Caps. Typeface from the  types bequeathed in 1686 to the University of Oxford by John Fell. Originally cut by  by Robert Granjon. To be printed at 13.5 points to match the original size. Autospaced and autokerned using iKern+AKkA developed by Igino Marini. " "www.iginomarini.com" "www.iginomarini.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
