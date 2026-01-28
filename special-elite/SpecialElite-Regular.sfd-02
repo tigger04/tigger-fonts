@@ -60255,7 +60255,7 @@ StartChar: Euro
 Encoding: 8364 8364 157
 Width: 1501
 GlyphClass: 1
-Flags: W
+Flags: WO
 LayerCount: 2
 UndoRedoHistory
 Layer: 0

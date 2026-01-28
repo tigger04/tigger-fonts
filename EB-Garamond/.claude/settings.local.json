@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for ttf in *.ttf)",
+      "Bash(do)",
+      "Bash(fonttools ttLib.woff2 compress:*)",
+      "Bash(done)"
+    ]
+  }
+}
