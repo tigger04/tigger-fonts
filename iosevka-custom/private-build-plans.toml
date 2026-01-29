@@ -1,0 +1,67 @@
+# NB no need to recreate a new one for IosevkaCustom
+# or any other - they can go in here to the same config
+# (Wish i'd saved the previous one!)
+
+
+[buildPlans.IosevkaQuasiProportional]
+family = "Iosevka Quasi Proportional"
+spacing = "quasi-proportional"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaQuasiProportional.variants.design]
+one = "no-base"
+seven = "straight-serifless-crossbar"
+capital-i = "short-serifed"
+capital-j = "serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+a = "single-storey-serifless"
+i = "hooky"
+j = "flat-hook-serifless"
+l = "flat-tailed"
+t = "bent-hook"
+z = "straight-serifless"
+
+[buildPlans.IosevkaQuasiProportional.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaQuasiProportional.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.IosevkaQuasiProportional.weights.Heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.IosevkaQuasiProportional.widths.Condensed]
+shape = 416
+menu = 3
+css = "condensed"
+
+[buildPlans.IosevkaQuasiProportional.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaQuasiProportional.widths.Extended]
+shape = 720
+menu = 7
+css = "expanded"
+
+[buildPlans.IosevkaQuasiProportional.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaQuasiProportional.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
